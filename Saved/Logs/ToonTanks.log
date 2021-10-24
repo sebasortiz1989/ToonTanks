@@ -1094,3 +1094,358 @@ Total execution time: 39.26 seconds
 [2021.10.24-18.18.21:963][317]Binding IntelliSense data... 100%
 [2021.10.24-18.18.21:963][317]Writing project files...
 [2021.10.24-18.18.25:395][317]Writing project files... 100%
+[2021.10.24-18.28.09:555][  5]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.10.24-18.28.09:566][  5]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.10.24-18.28.09:574][  5]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.10.24-18.28.16:145][400]LogContentBrowser: Attempting asset rename: NewBlueprint -> ComponentsActor
+[2021.10.24-18.28.16:152][400]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.10.24-18.28.18:182][521]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ComponentsActor.ComponentsActor
+[2021.10.24-18.28.18:444][521]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 126 classes and 0 folders.
+[2021.10.24-18.28.20:895][602]LogRenderer: Reallocating scene render targets to support 1208x900 Format 10 NumSamples 1 (Frame:65).
+[2021.10.24-18.28.21:269][621]LogSlate: Window 'ComponentsActor' being destroyed
+[2021.10.24-18.28.26:375][927]LogSlate: Took 0.005910 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.10.24-18.31.08:088][265]LogTexture: Display: Building textures: T_ColourGrid (OODLE_AutoDXT, 256X256)
+[2021.10.24-18.31.08:088][265]LogMaterial: Display: Missing cached shadermap for M_EmissiveBase in PCD3D_SM5, Default, SM5 (DDC key hash: E321D3E1B0B74E8D58935B927D305799C4FB9A9A), compiling. 
+[2021.10.24-18.31.08:101][265]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2021.10.24-18.31.08:102][265]LogMaterial: Display: Missing cached shadermap for M_TextureBase in PCD3D_SM5, Default, SM5 (DDC key hash: 64888859394F63B6D63A5F8D5A4CEB368D27D578), compiling. 
+[2021.10.24-18.31.08:114][265]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 16
+[2021.10.24-18.31.08:114][265]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 14
+[2021.10.24-18.31.08:114][265]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 12
+[2021.10.24-18.31.08:114][265]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 10
+[2021.10.24-18.31.08:114][265]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 8
+[2021.10.24-18.31.08:114][265]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 6
+[2021.10.24-18.31.08:114][265]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2021.10.24-18.31.08:114][265]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2021.10.24-18.31.08:114][265]LogShaderCompilers: Display: Started 16 'Local' shader compile jobs with 'Low' priority
+[2021.10.24-18.31.08:114][265]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2021.10.24-18.31.08:114][265]LogStaticMesh: Building static mesh SM_TankBase...
+[2021.10.24-18.31.08:178][265]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 16
+[2021.10.24-18.31.08:179][265]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 14
+[2021.10.24-18.31.08:179][265]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 12
+[2021.10.24-18.31.08:179][265]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 10
+[2021.10.24-18.31.08:179][265]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Low' priority
+[2021.10.24-18.31.08:179][265]LogStaticMesh: Built static mesh [0.06s] /Game/Assets/Meshes/SM_TankBase.SM_TankBase
+[2021.10.24-18.31.09:483][298]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2021.10.24-18.31.09:483][298]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.10.24-18.31.09:491][298]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.10.24-18.31.09:491][298]LogShaderCompilers: Display: Total job queries 168, among them cache hits 4 (2.38%)
+[2021.10.24-18.31.09:491][298]LogShaderCompilers: Display: Tracking 134 distinct input hashes that result in 100 distinct outputs (74.63%)
+[2021.10.24-18.31.09:492][298]LogShaderCompilers: Display: RAM used: 0.70 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.04%
+[2021.10.24-18.31.09:492][298]LogShaderCompilers: Display: ================================================
+[2021.10.24-18.31.09:570][302]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 7
+[2021.10.24-18.31.09:570][302]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.10.24-18.31.09:815][316]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 6
+[2021.10.24-18.31.09:815][316]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.10.24-18.31.09:969][323]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 5
+[2021.10.24-18.31.09:969][323]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.10.24-18.31.09:989][324]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 4
+[2021.10.24-18.31.09:989][324]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.10.24-18.31.10:112][328]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2021.10.24-18.31.10:112][328]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.10.24-18.31.10:165][331]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2
+[2021.10.24-18.31.10:165][331]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.10.24-18.31.10:301][338]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1
+[2021.10.24-18.31.10:301][338]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.10.24-18.31.31:862][621]LogStaticMesh: Building static mesh SM_TankTurret...
+[2021.10.24-18.31.31:885][621]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/Meshes/SM_TankTurret.SM_TankTurret
+[2021.10.24-18.31.52:352][447]LogEditorTransaction: Undo Modify Component(s)
+[2021.10.24-18.32.03:203][ 93]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.BaseMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:203][ 93]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:203][ 93]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:203][ 93]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.TurretMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:203][ 93]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:203][ 93]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:204][ 93]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.BaseMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:204][ 93]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:204][ 93]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:220][ 94]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.BaseMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:220][ 94]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:220][ 94]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:220][ 94]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.TurretMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:220][ 94]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:220][ 94]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:220][ 94]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.BaseMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:220][ 94]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:220][ 94]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:220][ 94]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.BaseMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:220][ 94]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:220][ 94]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:220][ 94]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.TurretMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:220][ 94]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:220][ 94]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:220][ 94]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.TurretMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:220][ 94]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:220][ 94]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:237][ 95]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.BaseMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:237][ 95]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:237][ 95]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:237][ 95]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.TurretMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:237][ 95]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:237][ 95]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:237][ 95]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.BaseMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:237][ 95]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:237][ 95]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:237][ 95]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.BaseMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:237][ 95]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:237][ 95]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:237][ 95]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.TurretMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:237][ 95]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:237][ 95]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:237][ 95]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.TurretMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:237][ 95]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:237][ 95]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:253][ 96]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.BaseMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:253][ 96]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:253][ 96]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:253][ 96]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.TurretMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:253][ 96]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:253][ 96]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:253][ 96]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.BaseMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:253][ 96]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:253][ 96]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:253][ 96]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.BaseMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:253][ 96]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:253][ 96]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:253][ 96]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.TurretMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:253][ 96]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:253][ 96]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:253][ 96]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.TurretMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:253][ 96]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:253][ 96]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:270][ 97]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.BaseMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:270][ 97]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:270][ 97]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:270][ 97]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.TurretMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:270][ 97]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:270][ 97]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:270][ 97]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.BaseMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:270][ 97]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:270][ 97]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:270][ 97]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.BaseMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:270][ 97]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:270][ 97]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:270][ 97]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.TurretMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:270][ 97]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:271][ 97]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:271][ 97]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.TurretMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:271][ 97]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:271][ 97]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:286][ 98]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.BaseMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:286][ 98]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:286][ 98]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:287][ 98]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.TurretMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:287][ 98]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:287][ 98]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:287][ 98]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.BaseMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:287][ 98]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:287][ 98]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:287][ 98]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.BaseMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:287][ 98]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:287][ 98]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:287][ 98]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.TurretMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:287][ 98]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:287][ 98]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:287][ 98]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.TurretMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:287][ 98]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:287][ 98]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:303][ 99]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.BaseMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:303][ 99]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:303][ 99]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:303][ 99]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.TurretMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:303][ 99]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:303][ 99]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:303][ 99]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.BaseMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:303][ 99]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:303][ 99]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:303][ 99]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.BaseMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:303][ 99]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:303][ 99]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:303][ 99]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.TurretMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:303][ 99]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:304][ 99]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:304][ 99]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.TurretMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:304][ 99]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:304][ 99]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:319][100]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.BaseMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:320][100]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:320][100]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:320][100]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.TurretMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:320][100]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:320][100]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:320][100]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.BaseMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:320][100]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:320][100]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:320][100]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.BaseMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:320][100]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:320][100]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:320][100]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.TurretMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:320][100]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:320][100]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:320][100]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.TurretMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:320][100]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:320][100]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:336][101]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.BaseMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:336][101]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:336][101]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:336][101]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.TurretMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:336][101]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:336][101]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:336][101]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.BaseMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:336][101]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:336][101]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:337][101]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.BaseMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:337][101]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:337][101]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:337][101]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.TurretMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:337][101]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:337][101]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:337][101]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.TurretMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:337][101]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:337][101]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:353][102]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.BaseMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:353][102]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:353][102]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:353][102]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.TurretMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:353][102]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:353][102]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:353][102]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.BaseMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:353][102]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:353][102]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:353][102]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.BaseMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:353][102]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:353][102]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:353][102]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.TurretMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:353][102]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:353][102]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:353][102]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.TurretMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:353][102]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:353][102]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:369][103]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.BaseMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:369][103]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:369][103]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:370][103]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.TurretMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:370][103]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:370][103]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:370][103]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.BaseMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:370][103]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:370][103]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:370][103]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.BaseMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:370][103]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:370][103]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:370][103]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.TurretMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:370][103]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:370][103]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:370][103]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.TurretMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:370][103]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:370][103]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:386][104]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.BaseMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:387][104]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:387][104]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:387][104]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.TurretMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:387][104]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:387][104]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:387][104]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.BaseMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:387][104]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:387][104]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:387][104]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.BaseMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:387][104]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:387][104]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:387][104]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.TurretMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:387][104]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:387][104]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:387][104]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.TurretMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:387][104]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:387][104]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:403][105]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.BaseMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:403][105]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:403][105]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:403][105]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.TurretMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:403][105]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:403][105]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:403][105]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.BaseMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:403][105]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:403][105]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:403][105]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.BaseMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:403][105]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:403][105]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:404][105]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.TurretMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:404][105]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:404][105]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:404][105]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.TurretMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:404][105]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:404][105]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:420][106]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.BaseMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:420][106]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:420][106]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:420][106]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.TurretMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:420][106]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:420][106]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:420][106]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.BaseMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:420][106]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:420][106]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:420][106]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.BaseMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:420][106]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:420][106]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:420][106]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.TurretMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:420][106]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:420][106]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:420][106]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.TurretMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:420][106]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:420][106]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:436][107]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.BaseMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:437][107]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:437][107]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:437][107]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.TurretMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:437][107]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:437][107]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:437][107]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.BaseMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:437][107]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:437][107]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:437][107]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.BaseMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:437][107]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:437][107]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:437][107]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.TurretMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:437][107]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:437][107]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:437][107]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.TurretMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:437][107]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:437][107]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:453][108]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.BaseMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:453][108]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:453][108]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:453][108]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.TurretMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:453][108]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:453][108]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:454][108]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.BaseMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:454][108]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:454][108]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:454][108]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.BaseMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:454][108]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:454][108]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:454][108]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.TurretMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:454][108]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:454][108]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:454][108]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.TurretMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:454][108]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:454][108]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:470][109]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.BaseMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:470][109]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:470][109]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:470][109]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.BaseMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:470][109]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:470][109]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:470][109]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.TurretMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:471][109]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:471][109]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.03:471][109]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.ComponentsActor_C_0.TurretMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2021.10.24-18.32.03:471][109]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.24-18.32.03:471][109]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.24-18.32.05:704][243]LogEditorTransaction: Undo Modify Component(s)
+[2021.10.24-18.32.07:170][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ComponentsActor" FILE="D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Content/ComponentsActor.uasset" SILENT=true
+[2021.10.24-18.32.07:186][326]LogSavePackage: Moving 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Saved/ComponentsActor73E18BEE4EEDDEF3EE0411B1209CDF42.tmp' to 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Content/ComponentsActor.uasset'
+[2021.10.24-18.32.07:201][326]AssetCheck: New page: Asset Save: ComponentsActor
+[2021.10.24-18.32.07:201][326]LogContentValidation: Display: Validating Blueprint /Game/ComponentsActor.ComponentsActor
+[2021.10.24-18.32.41:082][602]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ComponentsActor" FILE="D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Content/ComponentsActor.uasset" SILENT=true
+[2021.10.24-18.32.41:088][602]LogSavePackage: Moving 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Saved/ComponentsActor588D96154107C98473FED588430215A1.tmp' to 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Content/ComponentsActor.uasset'
+[2021.10.24-18.32.41:102][602]AssetCheck: New page: Asset Save: ComponentsActor
+[2021.10.24-18.32.41:102][602]LogContentValidation: Display: Validating Blueprint /Game/ComponentsActor.ComponentsActor
