@@ -1449,3 +1449,103 @@ Total execution time: 39.26 seconds
 [2021.10.24-18.32.41:088][602]LogSavePackage: Moving 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Saved/ComponentsActor588D96154107C98473FED588430215A1.tmp' to 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Content/ComponentsActor.uasset'
 [2021.10.24-18.32.41:102][602]AssetCheck: New page: Asset Save: ComponentsActor
 [2021.10.24-18.32.41:102][602]LogContentValidation: Display: Validating Blueprint /Game/ComponentsActor.ComponentsActor
+[2021.10.24-21.47.41:650][470]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.24-21.47.41:696][470]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.24-21.47.41:696][470]LogAudioMixer: Display: 1: FrontRight
+[2021.10.24-21.47.41:697][470]LogAudioMixer: Display: 2: FrontCenter
+[2021.10.24-21.47.41:697][470]LogAudioMixer: Display: 3: LowFrequency
+[2021.10.24-21.47.41:697][470]LogAudioMixer: Display: 4: BackLeft
+[2021.10.24-21.47.41:697][470]LogAudioMixer: Display: 5: BackRight
+[2021.10.24-21.47.41:697][470]LogAudioMixer: Display: 6: SideLeft
+[2021.10.24-21.47.41:697][470]LogAudioMixer: Display: 7: SideRight
+[2021.10.24-21.47.42:317][472]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.24-21.47.42:824][474]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.10.24-22.31.22:508][475]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.24-22.31.22:610][475]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.24-22.31.22:610][475]LogAudioMixer: Display: 1: FrontRight
+[2021.10.24-22.31.22:610][475]LogAudioMixer: Display: 2: FrontCenter
+[2021.10.24-22.31.22:610][475]LogAudioMixer: Display: 3: LowFrequency
+[2021.10.24-22.31.22:610][475]LogAudioMixer: Display: 4: BackLeft
+[2021.10.24-22.31.22:610][475]LogAudioMixer: Display: 5: BackRight
+[2021.10.24-22.31.22:610][475]LogAudioMixer: Display: 6: SideLeft
+[2021.10.24-22.31.22:610][475]LogAudioMixer: Display: 7: SideRight
+[2021.10.24-22.31.23:463][478]LogHttp: Warning: 000001FE28B12B00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B51CAB7B0-4A4F-1AE0-24A2-74859CF814C4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.1-17735300%2B%2B%2BUE4%2BRelease-4.27&UserID=2dff7098487c93f61f58249e2eff8e2c%7C4913ff8b8fc046bda226c2657427219e%7Cab1c6ce3-94dd-4fb1-8bef-615972bab147&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.10.24-22.31.23:464][478]LogHttp: Warning: 000001FE28B12B00: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2021.10.24-22.31.23:464][478]LogHttp: Warning: 000001FE28B12B00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1fe64ed7eb0 [can pipeline])
+[2021.10.24-22.31.23:464][478]LogHttp: Warning: 000001FE28B12B00: libcurl info message cache 1 (Re-using existing connection! (#1) with host datarouter.ol.epicgames.com)
+[2021.10.24-22.31.23:464][478]LogHttp: Warning: 000001FE28B12B00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.238.63.34) port 443 (#1))
+[2021.10.24-22.31.23:464][478]LogHttp: Warning: 000001FE28B12B00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2021.10.24-22.31.23:464][478]LogHttp: Warning: 000001FE28B12B00: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2021.10.24-22.31.23:464][478]LogHttp: Warning: 000001FE28B12B00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2021.10.24-22.31.23:464][478]LogHttp: Warning: 000001FE28B12B00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2021.10.24-22.31.23:464][478]LogHttp: Warning: 000001FE28B12B00: libcurl info message cache 7 (Closing connection 1)
+[2021.10.24-22.31.23:466][478]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B51CAB7B0-4A4F-1AE0-24A2-74859CF814C4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.1-17735300%2B%2B%2BUE4%2BRelease-4.27&UserID=2dff7098487c93f61f58249e2eff8e2c%7C4913ff8b8fc046bda226c2657427219e%7Cab1c6ce3-94dd-4fb1-8bef-615972bab147&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.10.24-22.44.17:698][416]Candidate modules for hot reload:
+[2021.10.24-22.44.17:698][416]  ToonTanks
+[2021.10.24-22.44.17:699][416]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ToonTanks,1387 ToonTanksEditor Win64 Development -Project="D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/ToonTanks.uproject" "D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/ToonTanks.uproject"  -IgnoreJunk]
+[2021.10.24-22.44.17:704][416]Warning: Starting HotReload took  0.1s.
+[2021.10.24-22.44.42:573][322]CompilerResultsLog: New page: Compilation - Oct 24, 2021, 12:44:42 PM
+[2021.10.24-22.44.42:573][322]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\GameDevelopment\UnrealEngine\GamedevTV\3ToonTanks\ToonTanks).
+[2021.10.24-22.44.42:573][322]CompilerResultsLog: Creating makefile for ToonTanksEditor (no existing makefile)
+[2021.10.24-22.44.42:574][322]CompilerResultsLog: Parsing headers for ToonTanksEditor
+[2021.10.24-22.44.42:574][322]CompilerResultsLog:   Running UnrealHeaderTool "D:\GameDevelopment\UnrealEngine\GamedevTV\3ToonTanks\ToonTanks\ToonTanks.uproject" "D:\GameDevelopment\UnrealEngine\GamedevTV\3ToonTanks\ToonTanks\Intermediate\Build\Win64\ToonTanksEditor\Development\ToonTanksEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\sebas\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.10.24-22.44.42:574][322]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2021.10.24-22.44.42:574][322]CompilerResultsLog: Reflection code generated for ToonTanksEditor in 12.7669194 seconds
+[2021.10.24-22.44.42:574][322]CompilerResultsLog: Building ToonTanksEditor...
+[2021.10.24-22.44.42:574][322]CompilerResultsLog: Using Visual Studio 2019 14.27.29112 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.10.24-22.44.42:574][322]CompilerResultsLog: Building 6 actions with 16 processes...
+[2021.10.24-22.44.42:574][322]CompilerResultsLog:   [1/6] BasePawn.cpp
+[2021.10.24-22.44.42:574][322]CompilerResultsLog:    D:\GameDevelopment\UnrealEngine\GamedevTV\3ToonTanks\ToonTanks\Source\ToonTanks\BasePawn.h(24) : error C2143: syntax error: missing ';' before '*'
+[2021.10.24-22.44.42:574][322]CompilerResultsLog:    D:\GameDevelopment\UnrealEngine\GamedevTV\3ToonTanks\ToonTanks\Source\ToonTanks\BasePawn.h(24) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+[2021.10.24-22.44.42:574][322]CompilerResultsLog:    D:\GameDevelopment\UnrealEngine\GamedevTV\3ToonTanks\ToonTanks\Source\ToonTanks\BasePawn.h(24) : error C2238: unexpected token(s) preceding ';'
+[2021.10.24-22.44.42:574][322]CompilerResultsLog:    D:\GameDevelopment\UnrealEngine\GamedevTV\3ToonTanks\ToonTanks\Source\ToonTanks\BasePawn.h(12) : error C2039: 'CapsuleComp': is not a member of 'ABasePawn'
+[2021.10.24-22.44.42:574][322]CompilerResultsLog:   D:\GameDevelopment\UnrealEngine\GamedevTV\3ToonTanks\ToonTanks\Source\ToonTanks\BasePawn.h(10): note: see declaration of 'ABasePawn'
+[2021.10.24-22.44.42:574][322]CompilerResultsLog:    D:\GameDevelopment\UnrealEngine\GamedevTV\3ToonTanks\ToonTanks\Source\ToonTanks\BasePawn.h(12) : error C2618: illegal member designator in offsetof
+[2021.10.24-22.44.42:574][322]CompilerResultsLog:   D:\GameDevelopment\UnrealEngine\GamedevTV\3ToonTanks\ToonTanks\Source\ToonTanks\BasePawn.h(12): note: offsetof has a builtin meaning; use /Zc:offsetof- to revert to old, non-conforming definition
+[2021.10.24-22.44.42:575][322]CompilerResultsLog:   [2/6] BasePawn.gen.cpp
+[2021.10.24-22.44.42:575][322]CompilerResultsLog:    D:\GameDevelopment\UnrealEngine\GamedevTV\3ToonTanks\ToonTanks\Source\ToonTanks/BasePawn.h(24) : error C2143: syntax error: missing ';' before '*'
+[2021.10.24-22.44.42:575][322]CompilerResultsLog:    D:\GameDevelopment\UnrealEngine\GamedevTV\3ToonTanks\ToonTanks\Source\ToonTanks/BasePawn.h(24) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+[2021.10.24-22.44.42:575][322]CompilerResultsLog:    D:\GameDevelopment\UnrealEngine\GamedevTV\3ToonTanks\ToonTanks\Source\ToonTanks/BasePawn.h(24) : error C2238: unexpected token(s) preceding ';'
+[2021.10.24-22.44.42:575][322]CompilerResultsLog:    D:\GameDevelopment\UnrealEngine\GamedevTV\3ToonTanks\ToonTanks\Source\ToonTanks/BasePawn.h(12) : error C2039: 'CapsuleComp': is not a member of 'ABasePawn'
+[2021.10.24-22.44.42:575][322]CompilerResultsLog:   D:\GameDevelopment\UnrealEngine\GamedevTV\3ToonTanks\ToonTanks\Source\ToonTanks/BasePawn.h(10): note: see declaration of 'ABasePawn'
+[2021.10.24-22.44.42:575][322]CompilerResultsLog:    D:\GameDevelopment\UnrealEngine\GamedevTV\3ToonTanks\ToonTanks\Source\ToonTanks/BasePawn.h(12) : error C2618: illegal member designator in offsetof
+[2021.10.24-22.44.42:575][322]CompilerResultsLog:   D:\GameDevelopment\UnrealEngine\GamedevTV\3ToonTanks\ToonTanks\Source\ToonTanks/BasePawn.h(12): note: offsetof has a builtin meaning; use /Zc:offsetof- to revert to old, non-conforming definition
+[2021.10.24-22.44.42:575][322]CompilerResultsLog:    D:\GameDevelopment\UnrealEngine\GamedevTV\3ToonTanks\ToonTanks\Intermediate\Build\Win64\UE4Editor\Inc\ToonTanks\BasePawn.gen.cpp(60) : error C2039: 'CapsuleComp': is not a member of 'ABasePawn'
+[2021.10.24-22.44.42:575][322]CompilerResultsLog:   D:\GameDevelopment\UnrealEngine\GamedevTV\3ToonTanks\ToonTanks\Source\ToonTanks/BasePawn.h(10): note: see declaration of 'ABasePawn'
+[2021.10.24-22.44.42:575][322]CompilerResultsLog:    D:\GameDevelopment\UnrealEngine\GamedevTV\3ToonTanks\ToonTanks\Intermediate\Build\Win64\UE4Editor\Inc\ToonTanks\BasePawn.gen.cpp(60) : error C2618: illegal member designator in offsetof
+[2021.10.24-22.44.42:575][322]CompilerResultsLog:   D:\GameDevelopment\UnrealEngine\GamedevTV\3ToonTanks\ToonTanks\Intermediate\Build\Win64\UE4Editor\Inc\ToonTanks\BasePawn.gen.cpp(60): note: offsetof has a builtin meaning; use /Zc:offsetof- to revert to old, non-conforming definition
+[2021.10.24-22.44.42:575][322]CompilerResultsLog:   [3/6] ToonTanks.init.gen.cpp
+[2021.10.24-22.44.42:575][322]LogMainFrame: MainFrame: Module compiling took 24.886 seconds
+[2021.10.24-22.44.42:612][322]Warning: HotReload failed, recompile failed
+[2021.10.24-22.44.44:385][526]LogSlate: Took 0.009453 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.10.24-22.45.47:007][903]LogSlate: Window 'Message Log' being destroyed
+[2021.10.24-22.45.47:015][903]LogSlate: Window 'Message Log' being destroyed
+[2021.10.24-22.45.54:075][190]Candidate modules for hot reload:
+[2021.10.24-22.45.54:075][190]  ToonTanks
+[2021.10.24-22.45.54:075][190]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ToonTanks,4650 ToonTanksEditor Win64 Development -Project="D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/ToonTanks.uproject" "D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/ToonTanks.uproject"  -IgnoreJunk]
+[2021.10.24-22.45.54:077][190]Warning: Starting HotReload took  0.0s.
+[2021.10.24-22.46.00:791][327]CompilerResultsLog: New page: Compilation - Oct 24, 2021, 12:46:00 PM
+[2021.10.24-22.46.00:791][327]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\GameDevelopment\UnrealEngine\GamedevTV\3ToonTanks\ToonTanks).
+[2021.10.24-22.46.00:791][327]CompilerResultsLog: Parsing headers for ToonTanksEditor
+[2021.10.24-22.46.00:791][327]CompilerResultsLog:   Running UnrealHeaderTool "D:\GameDevelopment\UnrealEngine\GamedevTV\3ToonTanks\ToonTanks\ToonTanks.uproject" "D:\GameDevelopment\UnrealEngine\GamedevTV\3ToonTanks\ToonTanks\Intermediate\Build\Win64\ToonTanksEditor\Development\ToonTanksEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\sebas\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.10.24-22.46.00:791][327]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2021.10.24-22.46.00:791][327]CompilerResultsLog: Reflection code generated for ToonTanksEditor in 3.968233 seconds
+[2021.10.24-22.46.00:791][327]CompilerResultsLog: Building ToonTanksEditor...
+[2021.10.24-22.46.00:791][327]CompilerResultsLog: Using Visual Studio 2019 14.27.29112 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.10.24-22.46.00:791][327]CompilerResultsLog: Building 5 actions with 16 processes...
+[2021.10.24-22.46.00:791][327]CompilerResultsLog:   [1/5] BasePawn.cpp
+[2021.10.24-22.46.00:791][327]CompilerResultsLog:   [2/5] BasePawn.gen.cpp
+[2021.10.24-22.46.00:791][327]CompilerResultsLog:   [3/5] UE4Editor-ToonTanks-4650.lib
+[2021.10.24-22.46.00:791][327]CompilerResultsLog:      Creating library D:\GameDevelopment\UnrealEngine\GamedevTV\3ToonTanks\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-4650.lib and object D:\GameDevelopment\UnrealEngine\GamedevTV\3ToonTanks\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-4650.exp
+[2021.10.24-22.46.00:791][327]CompilerResultsLog:   [4/5] UE4Editor-ToonTanks-4650.dll
+[2021.10.24-22.46.00:791][327]CompilerResultsLog:      Creating library D:\GameDevelopment\UnrealEngine\GamedevTV\3ToonTanks\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-4650.suppressed.lib and object D:\GameDevelopment\UnrealEngine\GamedevTV\3ToonTanks\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-4650.suppressed.exp
+[2021.10.24-22.46.00:791][327]CompilerResultsLog:   [5/5] ToonTanksEditor.target
+[2021.10.24-22.46.00:791][327]CompilerResultsLog: Total time in Parallel executor: 1.76 seconds
+[2021.10.24-22.46.00:791][327]CompilerResultsLog: Total execution time: 6.59 seconds
+[2021.10.24-22.46.00:791][327]LogMainFrame: MainFrame: Module compiling took 6.720 seconds
+[2021.10.24-22.46.00:974][327]LogClass: Could not find existing class BasePawn in package /Script/ToonTanks for HotReload, assuming new class
+[2021.10.24-22.46.00:990][327]LogHotReload: Re-instancing BasePawn after hot-reload.
+[2021.10.24-22.46.01:078][327]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'ToonTanks' in 0.0068 seconds. Added 1 classes and 2 folders.
+[2021.10.24-22.46.01:085][327]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.10.24-22.46.01:193][327]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0532 seconds. Added 3825 classes and 932 folders.
+[2021.10.24-22.46.01:193][327]Display: HotReload took  7.1s.
