@@ -1,6 +1,6 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
-#pragma once
+#pragma once //This is to not allow one include to be included multiple times
 
 #include "CoreMinimal.h"
 #include "GameFramework/Pawn.h"
@@ -22,6 +22,15 @@ protected:
 private:
 	UPROPERTY()
 	class UCapsuleComponent* CapsuleComp;
+
+	UPROPERTY()
+		UStaticMeshComponent* BaseMesh;
+
+	UPROPERTY()
+		UStaticMeshComponent* TurretMesh;
+
+	UPROPERTY()
+		USceneComponent* ProjectileSpawnPoint;
 
 public:	
 	// Called every frame
