@@ -1022,3 +1022,75 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.24-16.53.44:908][646]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2021.10.24-16.54.40:388][909]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
 [2021.10.24-16.54.43:266][ 64]LogSlate: Window 'Project Settings' being destroyed
+[2021.10.24-18.05.47:602][349]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2021.10.24-18.05.47:667][349]LogSlate: Took 0.007790 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.10.24-18.16.20:500][643]Running C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/ToonTanks.uproject" -game -rocket -progress
+[2021.10.24-18.16.20:806][643]Discovering modules, targets and source code for project...
+[2021.10.24-18.16.22:315][643]Binding IntelliSense data...
+[2021.10.24-18.16.31:099][643]Binding IntelliSense data... 100%
+[2021.10.24-18.16.31:099][643]Writing project files...
+[2021.10.24-18.16.33:214][643]Writing project files... 100%
+[2021.10.24-18.16.33:315][643]LogHotReload: Recompiling module ToonTanks...
+[2021.10.24-18.16.33:316][643]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2021.10.24-18.16.33:333][643]Candidate modules for hot reload:
+[2021.10.24-18.16.33:333][643]  ToonTanks
+[2021.10.24-18.16.33:334][643]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ToonTanks,5066 ToonTanksEditor Win64 Development -Project="D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/ToonTanks.uproject" "D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/ToonTanks.uproject"  -IgnoreJunk]
+[2021.10.24-18.17.12:690][643]Using 'git status' to determine working set for adaptive non-unity build (D:\GameDevelopment\UnrealEngine\GamedevTV\3ToonTanks\ToonTanks).
+Creating makefile for ToonTanksEditor (no existing makefile)
+Parsing headers for ToonTanksEditor
+  Running UnrealHeaderTool "D:\GameDevelopment\UnrealEngine\GamedevTV\3ToonTanks\ToonTanks\ToonTanks.uproject" "D:\GameDevelopment\UnrealEngine\GamedevTV\3ToonTanks\ToonTanks\Intermediate\Build\Win64\ToonTanksEditor\Development\ToonTanksEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\sebas\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+LogInit: Display: Loading text-based GConfig....
+Reflection code generated for ToonTanksEditor in 3.6883703 seconds
+Building ToonTanksEditor...
+Using Visual Studio 2019 14.27.29112 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+Building 9 actions with 16 processes...
+  [1/9] Default.rc2
+  [2/9] SharedPCH.Engine.ShadowErrors.cpp
+  [3/9] ToonTanks.cpp
+  [4/9] BasePawn.cpp
+  [5/9] ToonTanks.init.gen.cpp
+  [6/9] BasePawn.gen.cpp
+  [7/9] UE4Editor-ToonTanks-5066.lib
+     Creating library D:\GameDevelopment\UnrealEngine\GamedevTV\3ToonTanks\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-5066.lib and object D:\GameDevelopment\UnrealEngine\GamedevTV\3ToonTanks\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-5066.exp
+  [8/9] UE4Editor-ToonTanks-5066.dll
+     Creating library D:\GameDevelopment\UnrealEngine\GamedevTV\3ToonTanks\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-5066.suppressed.lib and object D:\GameDevelopment\UnrealEngine\GamedevTV\3ToonTanks\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-5066.suppressed.exp
+  [9/9] ToonTanksEditor.target
+Total time in Parallel executor: 31.05 seconds
+Total execution time: 39.26 seconds
+
+[2021.10.24-18.17.12:692][643]CompilerResultsLog: New page: Compilation - Oct 24, 2021, 8:17:12 AM
+[2021.10.24-18.17.12:692][643]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\GameDevelopment\UnrealEngine\GamedevTV\3ToonTanks\ToonTanks).
+[2021.10.24-18.17.12:692][643]CompilerResultsLog: Creating makefile for ToonTanksEditor (no existing makefile)
+[2021.10.24-18.17.12:692][643]CompilerResultsLog: Parsing headers for ToonTanksEditor
+[2021.10.24-18.17.12:692][643]CompilerResultsLog:   Running UnrealHeaderTool "D:\GameDevelopment\UnrealEngine\GamedevTV\3ToonTanks\ToonTanks\ToonTanks.uproject" "D:\GameDevelopment\UnrealEngine\GamedevTV\3ToonTanks\ToonTanks\Intermediate\Build\Win64\ToonTanksEditor\Development\ToonTanksEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\sebas\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.10.24-18.17.12:692][643]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2021.10.24-18.17.12:692][643]CompilerResultsLog: Reflection code generated for ToonTanksEditor in 3.6883703 seconds
+[2021.10.24-18.17.12:692][643]CompilerResultsLog: Building ToonTanksEditor...
+[2021.10.24-18.17.12:692][643]CompilerResultsLog: Using Visual Studio 2019 14.27.29112 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.10.24-18.17.12:692][643]CompilerResultsLog: Building 9 actions with 16 processes...
+[2021.10.24-18.17.12:692][643]CompilerResultsLog:   [1/9] Default.rc2
+[2021.10.24-18.17.12:692][643]CompilerResultsLog:   [2/9] SharedPCH.Engine.ShadowErrors.cpp
+[2021.10.24-18.17.12:692][643]CompilerResultsLog:   [3/9] ToonTanks.cpp
+[2021.10.24-18.17.12:692][643]CompilerResultsLog:   [4/9] BasePawn.cpp
+[2021.10.24-18.17.12:692][643]CompilerResultsLog:   [5/9] ToonTanks.init.gen.cpp
+[2021.10.24-18.17.12:692][643]CompilerResultsLog:   [6/9] BasePawn.gen.cpp
+[2021.10.24-18.17.12:692][643]CompilerResultsLog:   [7/9] UE4Editor-ToonTanks-5066.lib
+[2021.10.24-18.17.12:692][643]CompilerResultsLog:      Creating library D:\GameDevelopment\UnrealEngine\GamedevTV\3ToonTanks\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-5066.lib and object D:\GameDevelopment\UnrealEngine\GamedevTV\3ToonTanks\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-5066.exp
+[2021.10.24-18.17.12:692][643]CompilerResultsLog:   [8/9] UE4Editor-ToonTanks-5066.dll
+[2021.10.24-18.17.12:692][643]CompilerResultsLog:      Creating library D:\GameDevelopment\UnrealEngine\GamedevTV\3ToonTanks\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-5066.suppressed.lib and object D:\GameDevelopment\UnrealEngine\GamedevTV\3ToonTanks\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-5066.suppressed.exp
+[2021.10.24-18.17.12:692][643]CompilerResultsLog:   [9/9] ToonTanksEditor.target
+[2021.10.24-18.17.12:692][643]CompilerResultsLog: Total time in Parallel executor: 31.05 seconds
+[2021.10.24-18.17.12:692][643]CompilerResultsLog: Total execution time: 39.26 seconds
+[2021.10.24-18.17.12:692][643]LogMainFrame: MainFrame: Module compiling took 39.376 seconds
+[2021.10.24-18.17.12:693][643]Reloading module ToonTanks after successful compile.
+[2021.10.24-18.17.12:714][643]LogClass: Could not find existing package /Script/ToonTanks for HotReload of class BasePawn, assuming a new package.
+[2021.10.24-18.17.12:717][643]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'ToonTanks' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2021.10.24-18.17.12:747][643]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2021.10.24-18.17.12:801][643]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0239 seconds. Added 3825 classes and 932 folders.
+[2021.10.24-18.17.12:923][643]LogSlate: Window 'Add C++ Class' being destroyed
+[2021.10.24-18.18.17:714][317]Running C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/ToonTanks.uproject" -game -rocket -progress
+[2021.10.24-18.18.18:020][317]Discovering modules, targets and source code for project...
+[2021.10.24-18.18.19:636][317]Binding IntelliSense data...
+[2021.10.24-18.18.21:963][317]Binding IntelliSense data... 100%
+[2021.10.24-18.18.21:963][317]Writing project files...
+[2021.10.24-18.18.25:395][317]Writing project files... 100%
