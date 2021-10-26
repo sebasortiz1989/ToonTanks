@@ -15,6 +15,9 @@ public:
 	// Sets default values for this pawn's properties
 	ABasePawn();
 
+	UPROPERTY(EditAnywhere)
+	float VisibleAnywhereFloat = 4.f;
+
 protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
@@ -24,13 +27,13 @@ private:
 	class UCapsuleComponent* CapsuleComp;
 
 	UPROPERTY()
-		UStaticMeshComponent* BaseMesh;
+	UStaticMeshComponent* BaseMesh;
 
 	UPROPERTY()
-		UStaticMeshComponent* TurretMesh;
+	UStaticMeshComponent* TurretMesh;
 
 	UPROPERTY()
-		USceneComponent* ProjectileSpawnPoint;
+	USceneComponent* ProjectileSpawnPoint;
 
 public:	
 	// Called every frame

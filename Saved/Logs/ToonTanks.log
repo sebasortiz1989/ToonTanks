@@ -1058,3 +1058,51 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.26-00.11.23:855][ 30]LogSavePackage: Moving 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Saved/BP_PawnTurret6928B6DA4CED60FFEB1FCE872C7C51E2.tmp' to 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Content/Blueprints/Pawns/BP_PawnTurret.uasset'
 [2021.10.26-00.11.23:871][ 30]AssetCheck: New page: Asset Save: BP_PawnTurret
 [2021.10.26-00.11.23:871][ 30]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pawns/BP_PawnTurret.BP_PawnTurret
+[2021.10.26-00.14.21:806][375]BlueprintLog: New page: Compile BP_BaseTank
+[2021.10.26-00.14.21:843][375]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2021.10.26-00.15.15:643][102]LogHotReload: New module detected: UE4Editor-ToonTanks-0012.dll
+[2021.10.26-00.15.17:007][107]LogHotReload: Starting Hot-Reload from IDE
+[2021.10.26-00.15.17:052][107]LogClass: Could not find existing class BasePawn in package /Script/ToonTanks for HotReload, assuming new class
+[2021.10.26-00.15.17:061][107]LogHotReload: Re-instancing BasePawn after hot-reload.
+[2021.10.26-00.15.17:127][107]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'ToonTanks' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2021.10.26-00.15.17:131][107]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.10.26-00.15.17:149][107]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0114 seconds. Added 3823 classes and 930 folders.
+[2021.10.26-00.15.17:174][107]Display: HotReload took  0.2s.
+[2021.10.26-00.16.17:422][512]LogHotReload: New module detected: UE4Editor-ToonTanks-0013.dll
+[2021.10.26-00.16.18:453][550]LogHotReload: Starting Hot-Reload from IDE
+[2021.10.26-00.16.18:517][550]LogClass: Could not find existing class BasePawn in package /Script/ToonTanks for HotReload, assuming new class
+[2021.10.26-00.16.18:531][550]LogHotReload: Re-instancing BasePawn after hot-reload.
+[2021.10.26-00.16.18:614][550]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'ToonTanks' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2021.10.26-00.16.18:621][550]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.10.26-00.16.18:642][550]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0124 seconds. Added 3823 classes and 930 folders.
+[2021.10.26-00.16.18:647][550]Display: HotReload took  0.2s.
+[2021.10.26-00.17.30:905][244]LogHotReload: New module detected: UE4Editor-ToonTanks-0014.dll
+[2021.10.26-00.17.31:873][283]LogHotReload: Starting Hot-Reload from IDE
+[2021.10.26-00.17.31:923][283]LogClass: Could not find existing class BasePawn in package /Script/ToonTanks for HotReload, assuming new class
+[2021.10.26-00.17.31:939][283]LogHotReload: Re-instancing BasePawn after hot-reload.
+[2021.10.26-00.17.32:022][283]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'ToonTanks' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2021.10.26-00.17.32:030][283]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.10.26-00.17.32:051][283]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0125 seconds. Added 3823 classes and 930 folders.
+[2021.10.26-00.17.32:056][283]Display: HotReload took  0.2s.
+[2021.10.26-00.20.55:166][680]LogUObjectHash: Compacting FUObjectHashTables data took   9.85ms
+[2021.10.26-00.20.55:167][680]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Main' took 0.182
+[2021.10.26-00.20.55:168][680]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Pawns/BP_BaseTank] ([2] browsable assets)...
+[2021.10.26-00.20.55:168][680]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawns/BP_BaseTank]
+[2021.10.26-00.20.55:173][680]LogSavePackage: Moving 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Saved/BP_BaseTank_Auto2B12510CC429ABC0B65077C824DCDDDD9.tmp' to 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Saved/Autosaves/Game/Blueprints/Pawns/BP_BaseTank_Auto2.uasset'
+[2021.10.26-00.20.55:174][680]LogFileHelpers: Auto-saving content packages took 0.007
+[2021.10.26-00.27.35:280][381]LogHotReload: New module detected: UE4Editor-ToonTanks-0015.dll
+[2021.10.26-00.27.36:301][385]LogHotReload: Starting Hot-Reload from IDE
+[2021.10.26-00.27.36:340][385]LogClass: Could not find existing class BasePawn in package /Script/ToonTanks for HotReload, assuming new class
+[2021.10.26-00.27.36:349][385]LogHotReload: Re-instancing BasePawn after hot-reload.
+[2021.10.26-00.27.36:425][385]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'ToonTanks' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2021.10.26-00.27.36:432][385]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.10.26-00.27.36:450][385]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0117 seconds. Added 3823 classes and 930 folders.
+[2021.10.26-00.27.36:454][385]Display: HotReload took  0.2s.
+[2021.10.26-00.27.47:985][718]LogHotReload: New module detected: UE4Editor-ToonTanks-0016.dll
+[2021.10.26-00.27.48:959][762]LogHotReload: Starting Hot-Reload from IDE
+[2021.10.26-00.27.49:012][762]LogClass: Could not find existing class BasePawn in package /Script/ToonTanks for HotReload, assuming new class
+[2021.10.26-00.27.49:028][762]LogHotReload: Re-instancing BasePawn after hot-reload.
+[2021.10.26-00.27.49:114][762]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'ToonTanks' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2021.10.26-00.27.49:124][762]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.10.26-00.27.49:143][762]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0124 seconds. Added 3823 classes and 930 folders.
+[2021.10.26-00.27.49:148][762]Display: HotReload took  0.2s.
