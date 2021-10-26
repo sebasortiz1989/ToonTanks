@@ -15,8 +15,6 @@ public:
 	// Sets default values for this pawn's properties
 	ABasePawn();
 
-
-
 	UPROPERTY(VisibleInstanceOnly)
 	int32 VisibleInstanceOnlyInt = 8;
 

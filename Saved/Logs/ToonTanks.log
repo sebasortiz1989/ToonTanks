@@ -1693,3 +1693,139 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.26-01.52.14:029][449]AssetCheck: New page: Asset Save: multiple assets
 [2021.10.26-01.52.14:029][449]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Main_BuiltData.Main_BuiltData
 [2021.10.26-01.52.14:029][449]LogContentValidation: Display: Validating World /Game/Maps/Main.Main
+[2021.10.26-01.59.10:980][419]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{6128ded9-4b3e-4975-8e18-e039c4dfd884}.
+[2021.10.26-01.59.10:980][419]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.26-01.59.11:188][419]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.26-01.59.11:188][419]LogAudioMixer: Display: 1: FrontRight
+[2021.10.26-01.59.11:188][419]LogAudioMixer: Display: 2: FrontCenter
+[2021.10.26-01.59.11:188][419]LogAudioMixer: Display: 3: LowFrequency
+[2021.10.26-01.59.11:188][419]LogAudioMixer: Display: 4: BackLeft
+[2021.10.26-01.59.11:188][419]LogAudioMixer: Display: 5: BackRight
+[2021.10.26-01.59.11:188][419]LogAudioMixer: Display: 6: SideLeft
+[2021.10.26-01.59.11:188][419]LogAudioMixer: Display: 7: SideRight
+[2021.10.26-02.02.48:677][ 71]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.26-02.17.48:061][761]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{ffdc2bdc-cae0-4322-9f82-a2ecc57fa117}.
+[2021.10.26-02.17.48:061][761]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.26-02.17.48:224][761]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.26-02.17.48:224][761]LogAudioMixer: Display: 1: FrontRight
+[2021.10.26-02.17.48:224][761]LogAudioMixer: Display: 2: FrontCenter
+[2021.10.26-02.17.48:224][761]LogAudioMixer: Display: 3: LowFrequency
+[2021.10.26-02.17.48:224][761]LogAudioMixer: Display: 4: BackLeft
+[2021.10.26-02.17.48:224][761]LogAudioMixer: Display: 5: BackRight
+[2021.10.26-02.17.48:224][761]LogAudioMixer: Display: 6: SideLeft
+[2021.10.26-02.17.48:224][761]LogAudioMixer: Display: 7: SideRight
+[2021.10.26-02.19.09:689][506]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.10.26-02.19.10:307][541]LogEditorViewport: Clicking on Actor (LMB): BasePawn (BasePawn1)
+[2021.10.26-02.19.12:371][662]Cmd: DELETE
+[2021.10.26-02.19.12:373][662]Cmd: ACTOR DELETE
+[2021.10.26-02.19.12:380][662]LogEditorActor: Deleted Actor: BasePawn
+[2021.10.26-02.19.12:404][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.10.26-02.19.12:407][662]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2021.10.26-02.19.36:651][109]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.10.26-02.19.36:653][109]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Saved/Autosaves/Game/Maps/Main_Auto8.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.10.26-02.19.36:664][109]LogSavePackage: Moving 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Saved/Main_Auto8F7D1DB97413018CF60B42C835F935F63.tmp' to 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Saved/Autosaves/Game/Maps/Main_Auto8.umap'
+[2021.10.26-02.19.36:666][109]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Main' took 0.039
+[2021.10.26-02.19.36:666][109]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.039
+[2021.10.26-02.20.45:325][222]Running C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/ToonTanks.uproject" -game -rocket -progress
+[2021.10.26-02.20.45:631][222]Discovering modules, targets and source code for project...
+[2021.10.26-02.20.47:951][222]Binding IntelliSense data...
+[2021.10.26-02.20.56:642][222]Binding IntelliSense data... 100%
+[2021.10.26-02.20.56:643][222]Writing project files...
+[2021.10.26-02.21.00:174][222]Writing project files... 100%
+[2021.10.26-02.21.00:287][222]Candidate modules for hot reload:
+[2021.10.26-02.21.00:288][222]  ToonTanks
+[2021.10.26-02.21.00:288][222]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ToonTanks,7101 ToonTanksEditor Win64 Development -Project="D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/ToonTanks.uproject" "D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/ToonTanks.uproject"  -IgnoreJunk]
+[2021.10.26-02.21.07:823][222]CompilerResultsLog: New page: Compilation - Oct 25, 2021, 4:21:07 PM
+[2021.10.26-02.21.07:823][222]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\GameDevelopment\UnrealEngine\GamedevTV\3ToonTanks\ToonTanks).
+[2021.10.26-02.21.07:823][222]CompilerResultsLog: Creating makefile for ToonTanksEditor (no existing makefile)
+[2021.10.26-02.21.07:823][222]CompilerResultsLog: Parsing headers for ToonTanksEditor
+[2021.10.26-02.21.07:823][222]CompilerResultsLog:   Running UnrealHeaderTool "D:\GameDevelopment\UnrealEngine\GamedevTV\3ToonTanks\ToonTanks\ToonTanks.uproject" "D:\GameDevelopment\UnrealEngine\GamedevTV\3ToonTanks\ToonTanks\Intermediate\Build\Win64\ToonTanksEditor\Development\ToonTanksEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\sebas\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.10.26-02.21.07:823][222]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2021.10.26-02.21.07:823][222]CompilerResultsLog: Reflection code generated for ToonTanksEditor in 3.611083 seconds
+[2021.10.26-02.21.07:823][222]CompilerResultsLog: Building ToonTanksEditor...
+[2021.10.26-02.21.07:823][222]CompilerResultsLog: Using Visual Studio 2019 14.27.29112 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.10.26-02.21.07:823][222]CompilerResultsLog: Building 6 actions with 16 processes...
+[2021.10.26-02.21.07:823][222]CompilerResultsLog:   [1/6] Tank.cpp
+[2021.10.26-02.21.07:823][222]CompilerResultsLog:   [2/6] ToonTanks.init.gen.cpp
+[2021.10.26-02.21.07:823][222]CompilerResultsLog:   [3/6] Tank.gen.cpp
+[2021.10.26-02.21.07:823][222]CompilerResultsLog:   [4/6] UE4Editor-ToonTanks-7101.lib
+[2021.10.26-02.21.07:823][222]CompilerResultsLog:      Creating library D:\GameDevelopment\UnrealEngine\GamedevTV\3ToonTanks\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-7101.lib and object D:\GameDevelopment\UnrealEngine\GamedevTV\3ToonTanks\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-7101.exp
+[2021.10.26-02.21.07:823][222]CompilerResultsLog:   [5/6] UE4Editor-ToonTanks-7101.dll
+[2021.10.26-02.21.07:823][222]CompilerResultsLog:      Creating library D:\GameDevelopment\UnrealEngine\GamedevTV\3ToonTanks\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-7101.suppressed.lib and object D:\GameDevelopment\UnrealEngine\GamedevTV\3ToonTanks\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-7101.suppressed.exp
+[2021.10.26-02.21.07:823][222]CompilerResultsLog:   [6/6] ToonTanksEditor.target
+[2021.10.26-02.21.07:823][222]CompilerResultsLog: Total time in Parallel executor: 1.74 seconds
+[2021.10.26-02.21.07:823][222]CompilerResultsLog: Total execution time: 7.44 seconds
+[2021.10.26-02.21.07:823][222]LogMainFrame: MainFrame: Module compiling took 7.540 seconds
+[2021.10.26-02.21.07:860][222]LogClass: Could not find existing class Tank in package /Script/ToonTanks for HotReload, assuming new class
+[2021.10.26-02.21.07:865][222]LogHotReload: Re-instancing BasePawn after hot-reload.
+[2021.10.26-02.21.07:951][222]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'ToonTanks' in 0.0003 seconds. Added 2 classes and 2 folders.
+[2021.10.26-02.21.07:958][222]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.10.26-02.21.08:052][222]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0142 seconds. Added 3824 classes and 930 folders.
+[2021.10.26-02.21.08:052][222]Display: HotReload took  7.8s.
+[2021.10.26-02.21.08:056][222]Warning: HotReload operation took  7.8s.
+[2021.10.26-02.21.08:540][222]LogVSAccessor: Warning: Couldn't goto line number '1' in 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Source/ToonTanks/Tank.h'
+[2021.10.26-02.21.08:540][222]LogVSAccessor: Warning: Couldn't open file 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Source/ToonTanks/Tank.cpp'.
+[2021.10.26-02.21.08:551][222]LogSlate: Window 'Add C++ Class' being destroyed
+[2021.10.26-02.21.08:888][223]LogHotReload: New module detected: UE4Editor-ToonTanks-7101.dll
+[2021.10.26-02.21.08:908][224]LogHotReload: Starting Hot-Reload from IDE
+[2021.10.26-02.21.08:937][224]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'ToonTanks' in 0.0003 seconds. Added 2 classes and 2 folders.
+[2021.10.26-02.21.08:945][224]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.10.26-02.21.08:964][224]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0124 seconds. Added 3824 classes and 930 folders.
+[2021.10.26-02.21.08:968][224]Display: HotReload took  0.1s.
+[2021.10.26-02.24.40:570][960]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pawns/BP_BaseTank" FILE="D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Content/Blueprints/Pawns/BP_BaseTank.uasset" SILENT=true
+[2021.10.26-02.24.40:578][960]LogSavePackage: Moving 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Saved/BP_BaseTank5F878BD3445C72D012BD0199B25625F5.tmp' to 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Content/Blueprints/Pawns/BP_BaseTank.uasset'
+[2021.10.26-02.24.40:596][960]AssetCheck: New page: Asset Save: BP_BaseTank
+[2021.10.26-02.24.40:596][960]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pawns/BP_BaseTank.BP_BaseTank
+[2021.10.26-02.29.37:058][995]LogUObjectHash: Compacting FUObjectHashTables data took   5.61ms
+[2021.10.26-02.29.37:060][995]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Saved/Autosaves/Game/Maps/Main_Auto9.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.10.26-02.29.37:071][995]LogSavePackage: Moving 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Saved/Main_Auto9EDFAB7FD4490634F59C063A2124902AC.tmp' to 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Saved/Autosaves/Game/Maps/Main_Auto9.umap'
+[2021.10.26-02.29.37:072][995]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Main' took 0.137
+[2021.10.26-02.29.37:072][995]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.137
+[2021.10.26-02.41.55:022][208]LogHotReload: New module detected: UE4Editor-ToonTanks-0034.dll
+[2021.10.26-02.41.56:048][212]LogHotReload: Starting Hot-Reload from IDE
+[2021.10.26-02.41.56:100][212]LogClass: Could not find existing class Tank in package /Script/ToonTanks for HotReload, assuming new class
+[2021.10.26-02.41.56:111][212]LogHotReload: Re-instancing Tank after hot-reload.
+[2021.10.26-02.41.56:134][212]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'ToonTanks' in 0.0004 seconds. Added 2 classes and 2 folders.
+[2021.10.26-02.41.56:142][212]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.10.26-02.41.56:251][212]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0124 seconds. Added 3824 classes and 930 folders.
+[2021.10.26-02.41.56:255][212]Display: HotReload took  0.2s.
+[2021.10.26-02.42.22:069][448]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.26-02.42.22:161][448]LogUObjectHash: Compacting FUObjectHashTables data took   5.19ms
+[2021.10.26-02.42.22:174][448]LogSavePackage: Moving 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Saved/Main68B925CF4239A5034E4E6D9792C10095.tmp' to 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Content/Maps/Main.umap'
+[2021.10.26-02.42.22:180][448]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main_BuiltData" FILE="D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Content/Maps/Main_BuiltData.uasset" SILENT=true
+[2021.10.26-02.42.22:191][448]LogSavePackage: Moving 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Saved/Main_BuiltData51A82DC54189B59F8F4439BEFF4423CD.tmp' to 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Content/Maps/Main_BuiltData.uasset'
+[2021.10.26-02.42.22:212][448]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.26-02.42.22:212][448]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Main_BuiltData.Main_BuiltData
+[2021.10.26-02.42.22:212][448]LogContentValidation: Display: Validating World /Game/Maps/Main.Main
+[2021.10.26-02.44.08:167][625]LogSlate: Window 'Editor Preferences' being destroyed
+[2021.10.26-02.44.08:174][625]LogSlate: Window 'Editor Preferences' being destroyed
+[2021.10.26-02.45.23:743][173]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.10.26-02.45.23:762][173]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2021.10.26-02.45.35:061][849]LogBlueprint: Warning: Reparenting blueprint Blueprint /Game/Blueprints/Pawns/BP_BaseTank.BP_BaseTank from BasePawn to Tank...
+[2021.10.26-02.45.35:066][849]BlueprintLog: New page: Compile BP_BaseTank
+[2021.10.26-02.45.35:133][849]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2021.10.26-02.46.26:704][936]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pawns/BP_BaseTank" FILE="D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Content/Blueprints/Pawns/BP_BaseTank.uasset" SILENT=true
+[2021.10.26-02.46.26:712][936]LogSavePackage: Moving 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Saved/BP_BaseTank87341310413D58A156AF2CBE0668C8BE.tmp' to 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Content/Blueprints/Pawns/BP_BaseTank.uasset'
+[2021.10.26-02.46.26:728][936]AssetCheck: New page: Asset Save: BP_BaseTank
+[2021.10.26-02.46.26:728][936]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pawns/BP_BaseTank.BP_BaseTank
+[2021.10.26-02.46.38:430][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pawns/BP_BaseTank" FILE="D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Content/Blueprints/Pawns/BP_BaseTank.uasset" SILENT=true
+[2021.10.26-02.46.38:438][634]LogSavePackage: Moving 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Saved/BP_BaseTank16E1B6B24A8D5903877A378903399208.tmp' to 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Content/Blueprints/Pawns/BP_BaseTank.uasset'
+[2021.10.26-02.46.38:451][634]AssetCheck: New page: Asset Save: BP_BaseTank
+[2021.10.26-02.46.38:451][634]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pawns/BP_BaseTank.BP_BaseTank
+[2021.10.26-02.46.50:689][367]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pawns/BP_BaseTank" FILE="D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Content/Blueprints/Pawns/BP_BaseTank.uasset" SILENT=true
+[2021.10.26-02.46.50:693][367]LogSavePackage: Moving 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Saved/BP_BaseTank92088A1F42D3CE808C3BDE8DCC77D20C.tmp' to 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Content/Blueprints/Pawns/BP_BaseTank.uasset'
+[2021.10.26-02.46.50:706][367]AssetCheck: New page: Asset Save: BP_BaseTank
+[2021.10.26-02.46.50:706][367]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pawns/BP_BaseTank.BP_BaseTank
+[2021.10.26-02.47.04:887][217]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pawns/BP_BaseTank" FILE="D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Content/Blueprints/Pawns/BP_BaseTank.uasset" SILENT=true
+[2021.10.26-02.47.04:891][217]LogSavePackage: Moving 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Saved/BP_BaseTank5306BE0540DF17E18307BA96E67A4FF2.tmp' to 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Content/Blueprints/Pawns/BP_BaseTank.uasset'
+[2021.10.26-02.47.04:906][217]AssetCheck: New page: Asset Save: BP_BaseTank
+[2021.10.26-02.47.04:906][217]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pawns/BP_BaseTank.BP_BaseTank
+[2021.10.26-02.47.12:138][651]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.10.26-02.47.12:316][659]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.26-02.47.12:343][659]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2021.10.26-02.47.12:359][659]LogSavePackage: Moving 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Saved/MainAA58DD314A8472C04A32F9867B56F1E6.tmp' to 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Content/Maps/Main.umap'
+[2021.10.26-02.47.12:366][659]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main_BuiltData" FILE="D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Content/Maps/Main_BuiltData.uasset" SILENT=true
+[2021.10.26-02.47.12:377][659]LogSavePackage: Moving 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Saved/Main_BuiltData761558B84C766B55763A6C99CCCD24AB.tmp' to 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Content/Maps/Main_BuiltData.uasset'
+[2021.10.26-02.47.12:398][659]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.26-02.47.12:398][659]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Main_BuiltData.Main_BuiltData
+[2021.10.26-02.47.12:398][659]LogContentValidation: Display: Validating World /Game/Maps/Main.Main
