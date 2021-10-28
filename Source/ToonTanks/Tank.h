@@ -26,7 +26,8 @@ private:
 	void Move(float Value);
 	void Turn(float Value);
 
-	float SpeedValue;
+	UPROPERTY(EditAnywhere, Category = "Movement", BlueprintReadWrite, meta = (AllowPrivateAccess = "true")) // Remember for graph you use the meta
+	float Speed = 1000.f;
 	
 
 };

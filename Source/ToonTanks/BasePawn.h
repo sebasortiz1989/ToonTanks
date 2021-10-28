@@ -15,32 +15,11 @@ public:
 	// Sets default values for this pawn's properties
 	ABasePawn();
 
-	UPROPERTY(VisibleInstanceOnly)
-	int32 VisibleInstanceOnlyInt = 8;
-
-	UPROPERTY(VisibleDefaultsOnly)
-	int32 VisibleDefaultOnlyInt = 5;
-
-	UPROPERTY(EditDefaultsOnly)
-	int32 EditDefaultsOnlyInt = 9;
-
-	UPROPERTY(EditInstanceOnly)
-	int32 EditInstanceOnlyInt = 14;
-
-	UPROPERTY(EditAnywhere, BlueprintReadWrite)
-	float Speed = 4.546546546f;
-
 protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
 
 private:
-	UPROPERTY(VisibleAnywhere, BlueprintReadWrite, Category="Super Duper Variables", meta = (AllowPrivateAccess = "true"))
-	int32 VisibleAnywhereInt = 4;
-
-	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = "Super Duper Variables", meta = (AllowPrivateAccess = "true"))
-	int32 EditAnywhereInt = 22;
-
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "Components", meta = (AllowPrivateAccess = "true"))
 	class UCapsuleComponent* CapsuleComp;
 
