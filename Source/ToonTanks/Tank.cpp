@@ -10,6 +10,8 @@ ATank::ATank()
 
 	Camera = CreateDefaultSubobject<UCameraComponent>(TEXT("Camera"));
 	Camera->SetupAttachment(SpringArm);
+
+	SpeedValue = 7;
 }
 
 void ATank::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)
@@ -22,7 +24,10 @@ void ATank::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)
 
 void ATank::Move(float Value)
 {
-	UE_LOG(LogTemp, Warning, TEXT("The value of the float %f"), Value);
+	FVector DeltaLocation = FVector::ZeroVector;
+	DeltaLocation.X = Value * SpeedValue;
+
+	AddActorLocalOffset(DeltaLocation);
 }
 
 void ATank::Turn(float Value)

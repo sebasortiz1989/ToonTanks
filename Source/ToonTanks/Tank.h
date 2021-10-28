@@ -25,6 +25,8 @@ private:
 
 	void Move(float Value);
 	void Turn(float Value);
+
+	float SpeedValue;
 	
 
 };
