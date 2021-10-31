@@ -17,6 +17,10 @@ public:
 	// Called to bind functionality to input
 	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
 
+protected:
+	// Called when the game starts or when spawned
+	virtual void BeginPlay() override;
+
 private:
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "Components", meta = (AllowPrivateAccess = "true"))
 	class USpringArmComponent* SpringArm;
@@ -25,6 +29,7 @@ private:
 
 	void Move(float Value);
 	void Turn(float Value);
+	void RotateWithGamepad(float Value);
 
 	UPROPERTY(EditAnywhere, Category = "Movement", BlueprintReadWrite, meta = (AllowPrivateAccess = "true")) // Remember for graph you use the meta
 	float Speed = 1000.f;
@@ -32,4 +37,5 @@ private:
 	UPROPERTY(EditAnywhere, Category = "Movement", BlueprintReadWrite, meta = (AllowPrivateAccess = "true")) // Remember for graph you use the meta
 	float RotationSpeed = 90.f;
 	
+	APlayerController* PlayerControllerRef;
 };
