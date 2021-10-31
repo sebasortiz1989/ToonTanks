@@ -29,5 +29,7 @@ private:
 	UPROPERTY(EditAnywhere, Category = "Movement", BlueprintReadWrite, meta = (AllowPrivateAccess = "true")) // Remember for graph you use the meta
 	float Speed = 1000.f;
 	
-
+	UPROPERTY(EditAnywhere, Category = "Movement", BlueprintReadWrite, meta = (AllowPrivateAccess = "true")) // Remember for graph you use the meta
+	float RotationSpeed = 90.f;
+	
 };

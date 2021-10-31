@@ -28,10 +28,14 @@ void ATank::Move(float Value)
 
 	DeltaLocation.X = Value * Speed * DeltaTime;
 
-	AddActorLocalOffset(DeltaLocation);
+	AddActorLocalOffset(DeltaLocation, true);
 }
 
 void ATank::Turn(float Value)
 {
-	UE_LOG(LogTemp, Warning, TEXT("The value of the float %f"), Value);
+	FRotator DeltaRotation = FRotator::ZeroRotator;
+	float DeltaTime = UGameplayStatics::GetWorldDeltaSeconds(this);
+
+	DeltaRotation.Yaw = Value * RotationSpeed * DeltaTime;
+	AddActorLocalRotation(DeltaRotation, true);
 }
