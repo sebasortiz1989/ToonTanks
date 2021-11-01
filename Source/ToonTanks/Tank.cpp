@@ -20,6 +20,7 @@ void ATank::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)
 
 	PlayerInputComponent->BindAxis(TEXT("MoveForward"), this, &ATank::Move);
 	PlayerInputComponent->BindAxis(TEXT("Turn"), this, &ATank::Turn);
+	PlayerInputComponent->BindAxis(TEXT("RotateTurretGamepad"), this, &ATank::RotateWithGamepad);
 }
 
 // Called every frame
@@ -39,6 +40,8 @@ void ATank::Tick(float DeltaTime)
 			FColor::Red,
 			false,
 			-1.f);
+
+		RotateTurret(HitResult.ImpactPoint);
 	}
 }
 
@@ -47,14 +50,6 @@ void ATank::BeginPlay()
 	Super::BeginPlay();
 
 	PlayerControllerRef = Cast<APlayerController>(GetController());
-
-	DrawDebugSphere(GetWorld(), 
-					GetActorLocation() + FVector(0.f, 0.f, 200.f), 
-					100.f, 
-					12, 
-					FColor::Red,
-					true,
-					30.f);
 }
 
 void ATank::Move(float Value)
@@ -76,7 +71,11 @@ void ATank::Turn(float Value)
 	AddActorLocalRotation(DeltaRotation, true);
 }
 
-void ATank::RotateWithGamepad(float Value)
+void ATank::RotateWithGamepad(float Value) // The mouse function currently overrides this one, but it works
 {
+	FRotator DeltaRotation = FRotator::ZeroRotator;
+	float DeltaTime = UGameplayStatics::GetWorldDeltaSeconds(this);
+	DeltaRotation.Yaw = Value * TurretRotationSpeed * DeltaTime;
 
+	GetTurretMesh()->AddLocalRotation(DeltaRotation, true);
 }
