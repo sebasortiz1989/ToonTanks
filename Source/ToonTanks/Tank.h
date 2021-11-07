@@ -42,6 +42,9 @@ private:
 
 	UPROPERTY(EditAnywhere, Category = "Movement", BlueprintReadWrite, meta = (AllowPrivateAccess = "true")) // Remember for graph you use the meta
 	float TurretRotationSpeed = 90.f;
+
+	UPROPERTY(EditAnywhere, Category = "Movement")
+	bool UseMouseForTurretRotation = true;
 	
 	APlayerController* PlayerControllerRef;
 

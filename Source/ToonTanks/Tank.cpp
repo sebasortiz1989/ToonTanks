@@ -28,19 +28,10 @@ void ATank::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
 
-	if (PlayerControllerRef)
+	if (PlayerControllerRef && UseMouseForTurretRotation)
 	{
 		FHitResult HitResult;
 		PlayerControllerRef->GetHitResultUnderCursor(ECollisionChannel::ECC_Visibility, false, HitResult);
-
-		DrawDebugSphere(GetWorld(),
-			HitResult.ImpactPoint,
-			10.f,
-			12,
-			FColor::Red,
-			false,
-			-1.f);
-
 		RotateTurret(HitResult.ImpactPoint);
 	}
 }
@@ -73,9 +64,12 @@ void ATank::Turn(float Value)
 
 void ATank::RotateWithGamepad(float Value) // The mouse function currently overrides this one, but it works
 {
-	FRotator DeltaRotation = FRotator::ZeroRotator;
-	float DeltaTime = UGameplayStatics::GetWorldDeltaSeconds(this);
-	DeltaRotation.Yaw = Value * TurretRotationSpeed * DeltaTime;
+	if (!UseMouseForTurretRotation)
+	{
+		FRotator DeltaRotation = FRotator::ZeroRotator;
+		float DeltaTime = UGameplayStatics::GetWorldDeltaSeconds(this);
+		DeltaRotation.Yaw = Value * TurretRotationSpeed * DeltaTime;
 
-	GetTurretMesh()->AddLocalRotation(DeltaRotation, true);
+		GetTurretMesh()->AddLocalRotation(DeltaRotation, true);
+	}
 }
