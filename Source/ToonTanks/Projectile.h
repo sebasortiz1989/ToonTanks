@@ -21,7 +21,10 @@ protected:
 
 private:
 	UPROPERTY(EditDefaultsOnly, Category = "Combat")
-		UStaticMeshComponent* ProjectileMesh;
+	UStaticMeshComponent* ProjectileMesh;
+
+	UPROPERTY(VisibleAnywhere, Category = "Movement", meta = (AllowPrivateAccess = "true"))
+	class UProjectileMovementComponent* ProjectileMovementComponent;
 
 public:	
 	// Called every frame
