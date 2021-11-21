@@ -1215,3 +1215,193 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.21-19.36.43:357][ 23]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2021.11.21-19.36.43:372][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
 [2021.11.21-19.36.43:397][ 24]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.11.21-21.32.14:593][793]Candidate modules for hot reload:
+[2021.11.21-21.32.14:593][793]  ToonTanks
+[2021.11.21-21.32.14:594][793]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ToonTanks,6531 ToonTanksEditor Win64 Development -Project="D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/ToonTanks.uproject" "D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/ToonTanks.uproject"  -IgnoreJunk]
+[2021.11.21-21.32.14:597][793]Warning: Starting HotReload took  0.0s.
+[2021.11.21-21.32.15:069][808]CompilerResultsLog: New page: Compilation - Nov 21, 2021, 11:32:15 AM
+[2021.11.21-21.32.15:069][808]CompilerResultsLog: ERROR: A conflicting instance of UnrealBuildTool is already running.
+[2021.11.21-21.32.15:069][808]LogMainFrame: MainFrame: Module compiling took 0.482 seconds
+[2021.11.21-21.32.15:090][808]Warning: HotReload failed, recompile failed
+[2021.11.21-21.32.26:212][ 16]Candidate modules for hot reload:
+[2021.11.21-21.32.26:212][ 16]  ToonTanks
+[2021.11.21-21.32.26:212][ 16]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ToonTanks,3972 ToonTanksEditor Win64 Development -Project="D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/ToonTanks.uproject" "D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/ToonTanks.uproject"  -IgnoreJunk]
+[2021.11.21-21.32.26:215][ 16]Warning: Starting HotReload took  0.0s.
+[2021.11.21-21.32.28:253][ 36]CompilerResultsLog: New page: Compilation - Nov 21, 2021, 11:32:28 AM
+[2021.11.21-21.32.28:253][ 36]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\GameDevelopment\UnrealEngine\GamedevTV\3ToonTanks\ToonTanks).
+[2021.11.21-21.32.28:253][ 36]CompilerResultsLog: Building ToonTanksEditor...
+[2021.11.21-21.32.28:253][ 36]CompilerResultsLog: Using Visual Studio 2019 14.27.29112 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.11.21-21.32.28:253][ 36]CompilerResultsLog: Building 3 actions with 16 processes...
+[2021.11.21-21.32.28:253][ 36]CompilerResultsLog:   [1/3] UE4Editor-ToonTanks-3972.lib
+[2021.11.21-21.32.28:253][ 36]CompilerResultsLog:      Creating library D:\GameDevelopment\UnrealEngine\GamedevTV\3ToonTanks\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-3972.lib and object D:\GameDevelopment\UnrealEngine\GamedevTV\3ToonTanks\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-3972.exp
+[2021.11.21-21.32.28:253][ 36]CompilerResultsLog:   [2/3] UE4Editor-ToonTanks-3972.dll
+[2021.11.21-21.32.28:253][ 36]CompilerResultsLog:      Creating library D:\GameDevelopment\UnrealEngine\GamedevTV\3ToonTanks\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-3972.suppressed.lib and object D:\GameDevelopment\UnrealEngine\GamedevTV\3ToonTanks\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-3972.suppressed.exp
+[2021.11.21-21.32.28:253][ 36]CompilerResultsLog:   [3/3] ToonTanksEditor.target
+[2021.11.21-21.32.28:253][ 36]CompilerResultsLog: Total time in Parallel executor: 0.99 seconds
+[2021.11.21-21.32.28:253][ 36]CompilerResultsLog: Total execution time: 1.78 seconds
+[2021.11.21-21.32.28:253][ 36]LogMainFrame: MainFrame: Module compiling took 2.045 seconds
+[2021.11.21-21.32.28:298][ 36]LogClass: Could not find existing class BasePawn in package /Script/ToonTanks for HotReload, assuming new class
+[2021.11.21-21.32.28:302][ 36]LogClass: Could not find existing class Projectile in package /Script/ToonTanks for HotReload, assuming new class
+[2021.11.21-21.32.28:302][ 36]LogClass: Function OnHit is new.
+[2021.11.21-21.32.28:302][ 36]LogClass: Could not find existing class Tank in package /Script/ToonTanks for HotReload, assuming new class
+[2021.11.21-21.32.28:309][ 36]LogClass: Could not find existing class Tower in package /Script/ToonTanks for HotReload, assuming new class
+[2021.11.21-21.32.28:320][ 36]LogHotReload: Re-instancing BasePawn after hot-reload.
+[2021.11.21-21.32.28:365][ 36]LogHotReload: Re-instancing Projectile after hot-reload.
+[2021.11.21-21.32.28:421][ 36]LogHotReload: Re-instancing Tank after hot-reload.
+[2021.11.21-21.32.28:501][ 36]LogHotReload: Re-instancing Tower after hot-reload.
+[2021.11.21-21.32.28:553][ 36]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'ToonTanks' in 0.0004 seconds. Added 7 classes and 2 folders.
+[2021.11.21-21.32.28:562][ 36]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2021.11.21-21.32.28:681][ 36]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0128 seconds. Added 3829 classes and 930 folders.
+[2021.11.21-21.32.28:681][ 36]Display: HotReload took  2.5s.
+[2021.11.21-21.32.52:879][ 23]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Thud_Audio...
+[2021.11.21-21.32.52:879][ 23]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Assets/Audio/Thud_Audio.Thud_Audio will be modified from 40 to 40.
+[2021.11.21-21.32.52:901][ 23]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 78372 while cooking SoundWave /Game/Assets/Audio/Thud_Audio.Thud_Audio.
+[2021.11.21-21.32.58:548][359]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Actors/BP_Projectile" FILE="D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Content/Blueprints/Actors/BP_Projectile.uasset" SILENT=true
+[2021.11.21-21.32.58:555][359]LogSavePackage: Moving 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Saved/BP_ProjectileFE0CE4E84554986EFD38328359BD3EF5.tmp' to 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Content/Blueprints/Actors/BP_Projectile.uasset'
+[2021.11.21-21.32.58:572][359]AssetCheck: New page: Asset Save: BP_Projectile
+[2021.11.21-21.32.58:572][359]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/BP_Projectile.BP_Projectile
+[2021.11.21-21.32.59:249][399]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Actors/BP_Projectile" FILE="D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Content/Blueprints/Actors/BP_Projectile.uasset" SILENT=true
+[2021.11.21-21.32.59:253][399]LogSavePackage: Moving 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Saved/BP_ProjectileA2F27687464E10AB8A8EA9BB64B0BE65.tmp' to 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Content/Blueprints/Actors/BP_Projectile.uasset'
+[2021.11.21-21.32.59:268][399]AssetCheck: New page: Asset Save: BP_Projectile
+[2021.11.21-21.32.59:268][399]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/BP_Projectile.BP_Projectile
+[2021.11.21-21.33.14:350][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Actors/BP_Projectile" FILE="D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Content/Blueprints/Actors/BP_Projectile.uasset" SILENT=true
+[2021.11.21-21.33.14:354][303]LogSavePackage: Moving 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Saved/BP_ProjectileE32828714A68405B133C2089826EDB89.tmp' to 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Content/Blueprints/Actors/BP_Projectile.uasset'
+[2021.11.21-21.33.14:378][303]AssetCheck: New page: Asset Save: BP_Projectile
+[2021.11.21-21.33.14:378][303]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/BP_Projectile.BP_Projectile
+[2021.11.21-21.33.23:950][877]BlueprintLog: New page: Compile BP_Projectile
+[2021.11.21-21.33.24:071][877]LogUObjectHash: Compacting FUObjectHashTables data took   6.40ms
+[2021.11.21-21.33.24:554][903]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Actors/BP_Projectile" FILE="D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Content/Blueprints/Actors/BP_Projectile.uasset" SILENT=true
+[2021.11.21-21.33.24:561][903]LogSavePackage: Moving 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Saved/BP_Projectile0A6570E94F1CA52E48664896902D5439.tmp' to 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Content/Blueprints/Actors/BP_Projectile.uasset'
+[2021.11.21-21.33.24:577][903]AssetCheck: New page: Asset Save: BP_Projectile
+[2021.11.21-21.33.24:577][903]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/BP_Projectile.BP_Projectile
+[2021.11.21-21.33.25:189][940]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.11.21-21.33.25:189][940]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.11.21-21.33.25:189][940]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.21-21.33.30:951][277]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Explode_Audio...
+[2021.11.21-21.33.30:951][277]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Assets/Audio/Explode_Audio.Explode_Audio will be modified from 40 to 40.
+[2021.11.21-21.33.30:960][277]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 77328 while cooking SoundWave /Game/Assets/Audio/Explode_Audio.Explode_Audio.
+[2021.11.21-21.33.31:700][318]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pawns/BP_BaseTank" FILE="D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Content/Blueprints/Pawns/BP_BaseTank.uasset" SILENT=true
+[2021.11.21-21.33.31:709][318]LogSavePackage: Moving 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Saved/BP_BaseTank72A41861485CF7CB684089AD48F13B98.tmp' to 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Content/Blueprints/Pawns/BP_BaseTank.uasset'
+[2021.11.21-21.33.31:724][318]AssetCheck: New page: Asset Save: BP_BaseTank
+[2021.11.21-21.33.31:724][318]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pawns/BP_BaseTank.BP_BaseTank
+[2021.11.21-21.33.38:546][726]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Pawns/BP_PawnTurret.BP_PawnTurret
+[2021.11.21-21.33.41:898][897]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pawns/BP_PawnTurret" FILE="D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Content/Blueprints/Pawns/BP_PawnTurret.uasset" SILENT=true
+[2021.11.21-21.33.41:906][897]LogSavePackage: Moving 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Saved/BP_PawnTurret39EE23D54FC3AD48AF4E8FAA77E6E77E.tmp' to 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Content/Blueprints/Pawns/BP_PawnTurret.uasset'
+[2021.11.21-21.33.41:927][897]AssetCheck: New page: Asset Save: BP_PawnTurret
+[2021.11.21-21.33.41:927][897]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pawns/BP_PawnTurret.BP_PawnTurret
+[2021.11.21-21.33.43:135][969]LogSlate: Window 'BP_PawnTurret' being destroyed
+[2021.11.21-21.33.43:169][969]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.11.21-21.33.43:169][969]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.21-21.33.44:366][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.11.21-21.33.44:455][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   5.66ms
+[2021.11.21-21.33.44:467][ 35]LogSavePackage: Moving 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Saved/Main4BCD02AE4C68D2B48B2DE2BA4D64936B.tmp' to 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Content/Maps/Main.umap'
+[2021.11.21-21.33.44:473][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main_BuiltData" FILE="D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Content/Maps/Main_BuiltData.uasset" SILENT=true
+[2021.11.21-21.33.44:483][ 35]LogSavePackage: Moving 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Saved/Main_BuiltData7FB656E647750D33D53BA68926323CC9.tmp' to 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Content/Maps/Main_BuiltData.uasset'
+[2021.11.21-21.33.44:506][ 35]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.21-21.33.44:506][ 35]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Main_BuiltData.Main_BuiltData
+[2021.11.21-21.33.44:506][ 35]LogContentValidation: Display: Validating World /Game/Maps/Main.Main
+[2021.11.21-21.38.55:303][308]LogVSAccessor: Warning: Couldn't goto line number '1' in 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Source/ToonTanks/Tank.h'
+[2021.11.21-21.38.55:435][308]LogVSAccessor: Warning: Couldn't goto line number '1' in 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Source/ToonTanks/Tank.cpp'
+[2021.11.21-21.40.55:770][753]Candidate modules for hot reload:
+[2021.11.21-21.40.55:770][753]  ToonTanks
+[2021.11.21-21.40.55:770][753]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ToonTanks,0490 ToonTanksEditor Win64 Development -Project="D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/ToonTanks.uproject" "D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/ToonTanks.uproject"  -IgnoreJunk]
+[2021.11.21-21.40.55:773][753]Warning: Starting HotReload took  0.0s.
+[2021.11.21-21.41.02:771][167]CompilerResultsLog: New page: Compilation - Nov 21, 2021, 11:41:02 AM
+[2021.11.21-21.41.02:771][167]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\GameDevelopment\UnrealEngine\GamedevTV\3ToonTanks\ToonTanks).
+[2021.11.21-21.41.02:771][167]CompilerResultsLog: Parsing headers for ToonTanksEditor
+[2021.11.21-21.41.02:771][167]CompilerResultsLog:   Running UnrealHeaderTool "D:\GameDevelopment\UnrealEngine\GamedevTV\3ToonTanks\ToonTanks\ToonTanks.uproject" "D:\GameDevelopment\UnrealEngine\GamedevTV\3ToonTanks\ToonTanks\Intermediate\Build\Win64\ToonTanksEditor\Development\ToonTanksEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\sebas\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.11.21-21.41.02:771][167]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2021.11.21-21.41.02:771][167]CompilerResultsLog: Reflection code generated for ToonTanksEditor in 3.8553147 seconds
+[2021.11.21-21.41.02:771][167]CompilerResultsLog: Building ToonTanksEditor...
+[2021.11.21-21.41.02:771][167]CompilerResultsLog: Using Visual Studio 2019 14.27.29112 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.11.21-21.41.02:771][167]CompilerResultsLog: Building 8 actions with 16 processes...
+[2021.11.21-21.41.02:771][167]CompilerResultsLog:   [1/8] ToonTanks.init.gen.cpp
+[2021.11.21-21.41.02:771][167]CompilerResultsLog:   [2/8] Projectile.gen.cpp
+[2021.11.21-21.41.02:771][167]CompilerResultsLog:   [3/8] BasePawn.cpp
+[2021.11.21-21.41.02:771][167]CompilerResultsLog:   [4/8] Tank.cpp
+[2021.11.21-21.41.02:771][167]CompilerResultsLog:   [5/8] Projectile.cpp
+[2021.11.21-21.41.02:771][167]CompilerResultsLog:   [6/8] UE4Editor-ToonTanks-0490.lib
+[2021.11.21-21.41.02:771][167]CompilerResultsLog:      Creating library D:\GameDevelopment\UnrealEngine\GamedevTV\3ToonTanks\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-0490.lib and object D:\GameDevelopment\UnrealEngine\GamedevTV\3ToonTanks\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-0490.exp
+[2021.11.21-21.41.02:771][167]CompilerResultsLog:   [7/8] UE4Editor-ToonTanks-0490.dll
+[2021.11.21-21.41.02:771][167]CompilerResultsLog:      Creating library D:\GameDevelopment\UnrealEngine\GamedevTV\3ToonTanks\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-0490.suppressed.lib and object D:\GameDevelopment\UnrealEngine\GamedevTV\3ToonTanks\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-0490.suppressed.exp
+[2021.11.21-21.41.02:771][167]CompilerResultsLog:   [8/8] ToonTanksEditor.target
+[2021.11.21-21.41.02:771][167]CompilerResultsLog: Total time in Parallel executor: 2.22 seconds
+[2021.11.21-21.41.02:771][167]CompilerResultsLog: Total execution time: 6.91 seconds
+[2021.11.21-21.41.02:771][167]LogMainFrame: MainFrame: Module compiling took 7.006 seconds
+[2021.11.21-21.41.02:819][167]LogClass: Could not find existing class Projectile in package /Script/ToonTanks for HotReload, assuming new class
+[2021.11.21-21.41.02:819][167]LogClass: Function OnHit is new.
+[2021.11.21-21.41.02:848][167]LogHotReload: Re-instancing Projectile after hot-reload.
+[2021.11.21-21.41.02:883][167]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'ToonTanks' in 0.0003 seconds. Added 7 classes and 2 folders.
+[2021.11.21-21.41.02:891][167]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2021.11.21-21.41.02:993][167]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0116 seconds. Added 3829 classes and 930 folders.
+[2021.11.21-21.41.02:993][167]Display: HotReload took  7.2s.
+[2021.11.21-21.41.10:436][597]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.21-21.41.10:442][597]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.11.21-21.41.10:442][597]LogPlayLevel: [PlayLevel] Compiling BP_PawnTurret before play...
+[2021.11.21-21.41.10:463][597]LogPlayLevel: [PlayLevel] Compiling BP_BaseTank before play...
+[2021.11.21-21.41.10:617][597]LogUObjectHash: Compacting FUObjectHashTables data took   5.91ms
+[2021.11.21-21.41.10:620][597]LogPlayLevel: PlayLevel: Blueprint regeneration took 178 ms (2 blueprints)
+[2021.11.21-21.41.10:621][597]PIE: New page: PIE session: Main (Nov 21, 2021, 11:41:10 AM)
+[2021.11.21-21.41.10:621][597]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2021.11.21-21.41.10:631][597]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009958s)
+[2021.11.21-21.41.10:632][597]LogAIModule: Creating AISystem for world Main
+[2021.11.21-21.41.10:632][597]LogPlayLevel: PIE: World Init took: (0.001198s)
+[2021.11.21-21.41.10:632][597]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.011285s)
+[2021.11.21-21.41.10:683][597]LogUObjectHash: Compacting FUObjectHashTables data took   4.85ms
+[2021.11.21-21.41.10:687][597]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.11.21-21.41.10:687][597]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.21-21.41.10:687][597]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.21-21.41.10:687][597]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.21-21.41.10:687][597]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.21-21.41.10:687][597]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.21-21.41.10:687][597]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.21-21.41.10:687][597]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.21-21.41.10:687][597]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.21-21.41.10:687][597]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.11.21-21.41.10:687][597]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.11.21-21.41.10:687][597]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.11.21-21.41.10:687][597]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.21-21.41.10:690][597]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.21-21.41.10:690][597]LogAudioMixer: Display: 1: FrontRight
+[2021.11.21-21.41.10:690][597]LogAudioMixer: Display: 2: FrontCenter
+[2021.11.21-21.41.10:690][597]LogAudioMixer: Display: 3: LowFrequency
+[2021.11.21-21.41.10:690][597]LogAudioMixer: Display: 4: BackLeft
+[2021.11.21-21.41.10:690][597]LogAudioMixer: Display: 5: BackRight
+[2021.11.21-21.41.10:690][597]LogAudioMixer: Display: 6: SideLeft
+[2021.11.21-21.41.10:690][597]LogAudioMixer: Display: 7: SideRight
+[2021.11.21-21.41.10:721][597]LogAudioMixer: Display: Using Audio Device Headphones (2- Realtek(R) Audio)
+[2021.11.21-21.41.10:721][597]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.21-21.41.10:722][597]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.21-21.41.10:722][597]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.21-21.41.10:723][597]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.21-21.41.10:723][597]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.21-21.41.10:723][597]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.11.21-21.41.10:724][597]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.21-21.41.10:724][597]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.21-21.41.10:724][597]LogInit: FAudioDevice initialized.
+[2021.11.21-21.41.10:724][597]LogAudio: Display: Audio Device (ID: 4) registered with world 'Main'.
+[2021.11.21-21.41.10:744][597]LogLoad: Game class is 'BP_ToonTankGameMode_C'
+[2021.11.21-21.41.10:747][597]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2021.11.21-16.41.10
+[2021.11.21-21.41.10:747][597]LogWorld: Bringing up level for play took: 0.002200
+[2021.11.21-21.41.10:748][597]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2021.11.21-21.41.10:751][597]PIE: Server logged in
+[2021.11.21-21.41.10:752][597]PIE: Play in editor total start time 0.312 seconds.
+[2021.11.21-21.41.40:056][353]LogTemp: Warning: Health: 50.000000
+[2021.11.21-21.41.40:322][369]LogTemp: Warning: Health: 0.000000
+[2021.11.21-21.41.41:989][469]LogTemp: Warning: Health: 50.000000
+[2021.11.21-21.41.43:039][532]LogTemp: Warning: Health: 0.000000
+[2021.11.21-21.41.44:122][597]LogTemp: Warning: Health: 50.000000
+[2021.11.21-21.41.48:689][871]LogTemp: Warning: Health: 50.000000
+[2021.11.21-21.41.50:673][990]LogTemp: Warning: Health: 0.000000
+[2021.11.21-21.41.50:772][996]LogTemp: Warning: Health: 0.000000
+[2021.11.21-21.41.52:370][ 90]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.21-21.41.52:370][ 90]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2021.11.21-21.41.52:370][ 90]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2021.11.21-21.41.52:370][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.21-21.41.52:382][ 90]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.21-21.41.52:388][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.21-21.41.52:407][ 90]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.21-21.41.52:408][ 90]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.21-21.41.52:409][ 90]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.21-21.41.52:446][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2021.11.21-21.41.52:464][ 91]LogPlayLevel: Display: Destroying online subsystem :Context_17
