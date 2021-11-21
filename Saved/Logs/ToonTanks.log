@@ -2772,3 +2772,609 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.21-13.46.34:356][257]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2021.11.21-13.46.34:360][257]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
 [2021.11.21-13.46.34:386][258]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2021.11.21-13.49.44:124][ 22]LogSavePackage: Moving 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Saved/WBP_StartGameWidget3918C61C4F05BD8953694AABBFB58742.tmp' to 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Content/Blueprints/Widgets/WBP_StartGameWidget.uasset'
+[2021.11.21-13.49.44:138][ 22]AssetCheck: New page: Asset Save: WBP_StartGameWidget
+[2021.11.21-13.49.44:138][ 22]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/WBP_StartGameWidget.WBP_StartGameWidget
+[2021.11.21-13.51.21:676][455]LogSavePackage: Moving 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Saved/WBP_StartGameWidget84CBA9884507B3D36B9256A03CF9B52C.tmp' to 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Content/Blueprints/Widgets/WBP_StartGameWidget.uasset'
+[2021.11.21-13.51.21:690][455]AssetCheck: New page: Asset Save: WBP_StartGameWidget
+[2021.11.21-13.51.21:691][455]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/WBP_StartGameWidget.WBP_StartGameWidget
+[2021.11.21-13.52.09:201][223]LogSavePackage: Moving 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Saved/WBP_StartGameWidget34EC3188424C05C0C20C3D98825F6EE3.tmp' to 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Content/Blueprints/Widgets/WBP_StartGameWidget.uasset'
+[2021.11.21-13.52.09:215][223]AssetCheck: New page: Asset Save: WBP_StartGameWidget
+[2021.11.21-13.52.09:215][223]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/WBP_StartGameWidget.WBP_StartGameWidget
+[2021.11.21-13.52.17:514][720]LogSavePackage: Moving 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Saved/WBP_StartGameWidget249F7E614FDA7F170DBA1DB9852C339F.tmp' to 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Content/Blueprints/Widgets/WBP_StartGameWidget.uasset'
+[2021.11.21-13.52.17:528][720]AssetCheck: New page: Asset Save: WBP_StartGameWidget
+[2021.11.21-13.52.17:528][720]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/WBP_StartGameWidget.WBP_StartGameWidget
+[2021.11.21-13.52.28:825][395]LogEditorTransaction: Undo Delete current selection
+[2021.11.21-13.52.31:212][532]LogEditorTransaction: Redo Delete current selection
+[2021.11.21-13.53.08:317][752]LogSavePackage: Moving 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Saved/WBP_StartGameWidget1ABEACFD42DAFFD4B0671EBD382E597D.tmp' to 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Content/Blueprints/Widgets/WBP_StartGameWidget.uasset'
+[2021.11.21-13.53.08:330][752]AssetCheck: New page: Asset Save: WBP_StartGameWidget
+[2021.11.21-13.53.08:330][752]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/WBP_StartGameWidget.WBP_StartGameWidget
+[2021.11.21-13.53.10:500][787]BlueprintLog: New page: Compile WBP_StartGameWidget
+[2021.11.21-13.53.10:556][787]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2021.11.21-13.53.12:178][882]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.21-13.53.12:185][882]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.21-13.53.12:185][882]PIE: New page: PIE session: Main (Nov 21, 2021, 3:53:12 AM)
+[2021.11.21-13.53.12:185][882]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2021.11.21-13.53.12:188][882]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002860s)
+[2021.11.21-13.53.12:188][882]LogAIModule: Creating AISystem for world Main
+[2021.11.21-13.53.12:189][882]LogPlayLevel: PIE: World Init took: (0.000945s)
+[2021.11.21-13.53.12:189][882]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.003931s)
+[2021.11.21-13.53.12:216][882]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2021.11.21-13.53.12:216][882]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2021.11.21-13.53.12:216][882]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.21-13.53.12:216][882]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.21-13.53.12:216][882]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.21-13.53.12:216][882]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.21-13.53.12:216][882]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.21-13.53.12:216][882]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.21-13.53.12:216][882]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.21-13.53.12:216][882]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.21-13.53.12:217][882]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.11.21-13.53.12:217][882]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.11.21-13.53.12:217][882]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.11.21-13.53.12:217][882]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.21-13.53.12:220][882]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.21-13.53.12:220][882]LogAudioMixer: Display: 1: FrontRight
+[2021.11.21-13.53.12:220][882]LogAudioMixer: Display: 2: FrontCenter
+[2021.11.21-13.53.12:220][882]LogAudioMixer: Display: 3: LowFrequency
+[2021.11.21-13.53.12:220][882]LogAudioMixer: Display: 4: BackLeft
+[2021.11.21-13.53.12:220][882]LogAudioMixer: Display: 5: BackRight
+[2021.11.21-13.53.12:220][882]LogAudioMixer: Display: 6: SideLeft
+[2021.11.21-13.53.12:220][882]LogAudioMixer: Display: 7: SideRight
+[2021.11.21-13.53.12:258][882]LogAudioMixer: Display: Using Audio Device Headphones (2- Realtek(R) Audio)
+[2021.11.21-13.53.12:258][882]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.21-13.53.12:258][882]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.21-13.53.12:258][882]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.21-13.53.12:259][882]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.21-13.53.12:259][882]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.21-13.53.12:259][882]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.11.21-13.53.12:261][882]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.21-13.53.12:262][882]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.21-13.53.12:262][882]LogInit: FAudioDevice initialized.
+[2021.11.21-13.53.12:262][882]LogAudio: Display: Audio Device (ID: 9) registered with world 'Main'.
+[2021.11.21-13.53.12:276][882]LogLoad: Game class is 'BP_ToonTankGameMode_C'
+[2021.11.21-13.53.12:277][882]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2021.11.21-08.53.12
+[2021.11.21-13.53.12:277][882]LogWorld: Bringing up level for play took: 0.001074
+[2021.11.21-13.53.12:278][882]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2021.11.21-13.53.12:280][882]PIE: Server logged in
+[2021.11.21-13.53.12:282][882]PIE: Play in editor total start time 0.097 seconds.
+[2021.11.21-13.53.19:491][312]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.21-13.53.19:491][312]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2021.11.21-13.53.19:491][312]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2021.11.21-13.53.19:492][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.21-13.53.19:506][312]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.21-13.53.19:511][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.21-13.53.19:534][312]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.21-13.53.19:534][312]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.21-13.53.19:535][312]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.21-13.53.19:567][312]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.21-13.53.19:571][312]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2021.11.21-13.53.19:589][313]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2021.11.21-13.53.33:043][114]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UTextBlock::SetText' [Element not found.]
+[2021.11.21-13.53.35:625][267]LogSavePackage: Moving 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Saved/WBP_StartGameWidget32EB6E28476DCA92D3ACEF97BE93B5A0.tmp' to 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Content/Blueprints/Widgets/WBP_StartGameWidget.uasset'
+[2021.11.21-13.53.35:641][267]AssetCheck: New page: Asset Save: WBP_StartGameWidget
+[2021.11.21-13.53.35:641][267]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/WBP_StartGameWidget.WBP_StartGameWidget
+[2021.11.21-13.53.41:989][647]LogSavePackage: Moving 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Saved/WBP_StartGameWidget9DEEFFC1417B6FFBCCD9C28EF9BD5ECF.tmp' to 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Content/Blueprints/Widgets/WBP_StartGameWidget.uasset'
+[2021.11.21-13.53.42:002][647]AssetCheck: New page: Asset Save: WBP_StartGameWidget
+[2021.11.21-13.53.42:002][647]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/WBP_StartGameWidget.WBP_StartGameWidget
+[2021.11.21-13.53.52:571][280]LogSavePackage: Moving 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Saved/WBP_StartGameWidget6BD315EB4BF74486C1DCD987E377FFE4.tmp' to 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Content/Blueprints/Widgets/WBP_StartGameWidget.uasset'
+[2021.11.21-13.53.52:584][280]AssetCheck: New page: Asset Save: WBP_StartGameWidget
+[2021.11.21-13.53.52:584][280]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/WBP_StartGameWidget.WBP_StartGameWidget
+[2021.11.21-13.53.54:866][417]BlueprintLog: New page: Compile WBP_StartGameWidget
+[2021.11.21-13.53.54:914][417]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2021.11.21-13.53.56:367][503]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.21-13.53.56:372][503]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.21-13.53.56:372][503]PIE: New page: PIE session: Main (Nov 21, 2021, 3:53:56 AM)
+[2021.11.21-13.53.56:372][503]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2021.11.21-13.53.56:375][503]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002712s)
+[2021.11.21-13.53.56:376][503]LogAIModule: Creating AISystem for world Main
+[2021.11.21-13.53.56:376][503]LogPlayLevel: PIE: World Init took: (0.000961s)
+[2021.11.21-13.53.56:376][503]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.003807s)
+[2021.11.21-13.53.56:402][503]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2021.11.21-13.53.56:402][503]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2021.11.21-13.53.56:402][503]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.21-13.53.56:402][503]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.21-13.53.56:402][503]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.21-13.53.56:402][503]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.21-13.53.56:402][503]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.21-13.53.56:402][503]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.21-13.53.56:402][503]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.21-13.53.56:402][503]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.21-13.53.56:403][503]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.11.21-13.53.56:403][503]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.11.21-13.53.56:403][503]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.11.21-13.53.56:403][503]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.21-13.53.56:405][503]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.21-13.53.56:405][503]LogAudioMixer: Display: 1: FrontRight
+[2021.11.21-13.53.56:405][503]LogAudioMixer: Display: 2: FrontCenter
+[2021.11.21-13.53.56:405][503]LogAudioMixer: Display: 3: LowFrequency
+[2021.11.21-13.53.56:405][503]LogAudioMixer: Display: 4: BackLeft
+[2021.11.21-13.53.56:405][503]LogAudioMixer: Display: 5: BackRight
+[2021.11.21-13.53.56:405][503]LogAudioMixer: Display: 6: SideLeft
+[2021.11.21-13.53.56:405][503]LogAudioMixer: Display: 7: SideRight
+[2021.11.21-13.53.56:435][503]LogAudioMixer: Display: Using Audio Device Headphones (2- Realtek(R) Audio)
+[2021.11.21-13.53.56:435][503]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.21-13.53.56:435][503]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.21-13.53.56:436][503]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.21-13.53.56:436][503]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.21-13.53.56:436][503]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.21-13.53.56:436][503]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.11.21-13.53.56:437][503]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.21-13.53.56:437][503]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.21-13.53.56:437][503]LogInit: FAudioDevice initialized.
+[2021.11.21-13.53.56:437][503]LogAudio: Display: Audio Device (ID: 10) registered with world 'Main'.
+[2021.11.21-13.53.56:451][503]LogLoad: Game class is 'BP_ToonTankGameMode_C'
+[2021.11.21-13.53.56:453][503]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2021.11.21-08.53.56
+[2021.11.21-13.53.56:453][503]LogWorld: Bringing up level for play took: 0.001045
+[2021.11.21-13.53.56:453][503]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2021.11.21-13.53.56:457][503]PIE: Server logged in
+[2021.11.21-13.53.56:457][503]PIE: Play in editor total start time 0.086 seconds.
+[2021.11.21-13.54.04:161][962]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.21-13.54.04:161][962]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2021.11.21-13.54.04:161][962]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2021.11.21-13.54.04:161][962]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.21-13.54.04:176][962]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.21-13.54.04:181][962]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.21-13.54.04:204][962]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.21-13.54.04:204][962]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.21-13.54.04:205][962]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.21-13.54.04:239][962]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.21-13.54.04:243][962]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2021.11.21-13.54.04:262][963]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2021.11.21-13.54.55:800][ 49]LogSavePackage: Moving 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Saved/WBP_StartGameWidget766B54324ADE2530DE78D9AE68258570.tmp' to 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Content/Blueprints/Widgets/WBP_StartGameWidget.uasset'
+[2021.11.21-13.54.55:816][ 49]AssetCheck: New page: Asset Save: WBP_StartGameWidget
+[2021.11.21-13.54.55:816][ 49]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/WBP_StartGameWidget.WBP_StartGameWidget
+[2021.11.21-13.55.03:668][519]LogSavePackage: Moving 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Saved/WBP_StartGameWidgetEC903E0E4BB52D2C7B818C844A00DF6E.tmp' to 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Content/Blueprints/Widgets/WBP_StartGameWidget.uasset'
+[2021.11.21-13.55.03:683][519]AssetCheck: New page: Asset Save: WBP_StartGameWidget
+[2021.11.21-13.55.03:683][519]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/WBP_StartGameWidget.WBP_StartGameWidget
+[2021.11.21-13.56.29:101][949]LogSlate: Window 'Color Picker' being destroyed
+[2021.11.21-13.56.41:226][254]LogSavePackage: Moving 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Saved/WBP_StartGameWidget3ADBE40D48867765D36994B969C5E7F7.tmp' to 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Content/Blueprints/Widgets/WBP_StartGameWidget.uasset'
+[2021.11.21-13.56.41:242][254]AssetCheck: New page: Asset Save: WBP_StartGameWidget
+[2021.11.21-13.56.41:242][254]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/WBP_StartGameWidget.WBP_StartGameWidget
+[2021.11.21-13.56.50:030][645]LogSavePackage: Moving 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Saved/WBP_StartGameWidget25A3BD564A521BF0999D96B73C7672F8.tmp' to 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Content/Blueprints/Widgets/WBP_StartGameWidget.uasset'
+[2021.11.21-13.56.50:044][645]AssetCheck: New page: Asset Save: WBP_StartGameWidget
+[2021.11.21-13.56.50:044][645]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/WBP_StartGameWidget.WBP_StartGameWidget
+[2021.11.21-13.56.53:743][867]Candidate modules for hot reload:
+[2021.11.21-13.56.53:743][867]  ToonTanks
+[2021.11.21-13.56.53:744][867]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ToonTanks,3249 ToonTanksEditor Win64 Development -Project="D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/ToonTanks.uproject" "D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/ToonTanks.uproject"  -IgnoreJunk]
+[2021.11.21-13.56.53:746][867]Warning: Starting HotReload took  0.0s.
+[2021.11.21-13.56.55:417][959]CompilerResultsLog: New page: Compilation - Nov 21, 2021, 3:56:55 AM
+[2021.11.21-13.56.55:417][959]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\GameDevelopment\UnrealEngine\GamedevTV\3ToonTanks\ToonTanks).
+[2021.11.21-13.56.55:417][959]CompilerResultsLog: Building ToonTanksEditor...
+[2021.11.21-13.56.55:417][959]CompilerResultsLog: Using Visual Studio 2019 14.27.29112 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.11.21-13.56.55:417][959]CompilerResultsLog: Building 3 actions with 16 processes...
+[2021.11.21-13.56.55:417][959]CompilerResultsLog:   [1/3] UE4Editor-ToonTanks-3249.lib
+[2021.11.21-13.56.55:417][959]CompilerResultsLog:      Creating library D:\GameDevelopment\UnrealEngine\GamedevTV\3ToonTanks\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-3249.lib and object D:\GameDevelopment\UnrealEngine\GamedevTV\3ToonTanks\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-3249.exp
+[2021.11.21-13.56.55:418][959]CompilerResultsLog:   [2/3] UE4Editor-ToonTanks-3249.dll
+[2021.11.21-13.56.55:418][959]CompilerResultsLog:      Creating library D:\GameDevelopment\UnrealEngine\GamedevTV\3ToonTanks\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-3249.suppressed.lib and object D:\GameDevelopment\UnrealEngine\GamedevTV\3ToonTanks\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-3249.suppressed.exp
+[2021.11.21-13.56.55:418][959]CompilerResultsLog:   [3/3] ToonTanksEditor.target
+[2021.11.21-13.56.55:418][959]CompilerResultsLog: Total time in Parallel executor: 0.88 seconds
+[2021.11.21-13.56.55:418][959]CompilerResultsLog: Total execution time: 1.58 seconds
+[2021.11.21-13.56.55:418][959]LogMainFrame: MainFrame: Module compiling took 1.678 seconds
+[2021.11.21-13.56.55:488][959]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'ToonTanks' in 0.0003 seconds. Added 7 classes and 2 folders.
+[2021.11.21-13.56.55:495][959]Display: HotReload successful (2 functions remapped  0 scriptstructs remapped)
+[2021.11.21-13.56.55:588][959]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0118 seconds. Added 3829 classes and 930 folders.
+[2021.11.21-13.56.55:588][959]Display: HotReload took  1.9s.
+[2021.11.21-13.56.57:174][ 38]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.21-13.56.57:179][ 38]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.11.21-13.56.57:180][ 38]LogPlayLevel: [PlayLevel] Compiling WBP_StartGameWidget before play...
+[2021.11.21-13.56.57:282][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   4.74ms
+[2021.11.21-13.56.57:282][ 38]LogPlayLevel: PlayLevel: Blueprint regeneration took 103 ms (1 blueprints)
+[2021.11.21-13.56.57:283][ 38]PIE: New page: PIE session: Main (Nov 21, 2021, 3:56:57 AM)
+[2021.11.21-13.56.57:283][ 38]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2021.11.21-13.56.57:286][ 38]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002862s)
+[2021.11.21-13.56.57:287][ 38]LogAIModule: Creating AISystem for world Main
+[2021.11.21-13.56.57:288][ 38]LogPlayLevel: PIE: World Init took: (0.001037s)
+[2021.11.21-13.56.57:288][ 38]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.004150s)
+[2021.11.21-13.56.57:335][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2021.11.21-13.56.57:336][ 38]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2021.11.21-13.56.57:336][ 38]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.21-13.56.57:336][ 38]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.21-13.56.57:336][ 38]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.21-13.56.57:336][ 38]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.21-13.56.57:336][ 38]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.21-13.56.57:336][ 38]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.21-13.56.57:336][ 38]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.21-13.56.57:336][ 38]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.21-13.56.57:336][ 38]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.11.21-13.56.57:336][ 38]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.11.21-13.56.57:336][ 38]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.11.21-13.56.57:336][ 38]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.21-13.56.57:338][ 38]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.21-13.56.57:338][ 38]LogAudioMixer: Display: 1: FrontRight
+[2021.11.21-13.56.57:338][ 38]LogAudioMixer: Display: 2: FrontCenter
+[2021.11.21-13.56.57:338][ 38]LogAudioMixer: Display: 3: LowFrequency
+[2021.11.21-13.56.57:338][ 38]LogAudioMixer: Display: 4: BackLeft
+[2021.11.21-13.56.57:338][ 38]LogAudioMixer: Display: 5: BackRight
+[2021.11.21-13.56.57:338][ 38]LogAudioMixer: Display: 6: SideLeft
+[2021.11.21-13.56.57:338][ 38]LogAudioMixer: Display: 7: SideRight
+[2021.11.21-13.56.57:368][ 38]LogAudioMixer: Display: Using Audio Device Headphones (2- Realtek(R) Audio)
+[2021.11.21-13.56.57:369][ 38]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.21-13.56.57:369][ 38]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.21-13.56.57:369][ 38]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.21-13.56.57:369][ 38]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.21-13.56.57:369][ 38]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.21-13.56.57:369][ 38]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.11.21-13.56.57:371][ 38]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.21-13.56.57:371][ 38]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.21-13.56.57:371][ 38]LogInit: FAudioDevice initialized.
+[2021.11.21-13.56.57:371][ 38]LogAudio: Display: Audio Device (ID: 11) registered with world 'Main'.
+[2021.11.21-13.56.57:385][ 38]LogLoad: Game class is 'BP_ToonTankGameMode_C'
+[2021.11.21-13.56.57:386][ 38]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2021.11.21-08.56.57
+[2021.11.21-13.56.57:386][ 38]LogWorld: Bringing up level for play took: 0.001274
+[2021.11.21-13.56.57:387][ 38]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2021.11.21-13.56.57:390][ 38]PIE: Server logged in
+[2021.11.21-13.56.57:391][ 38]PIE: Play in editor total start time 0.213 seconds.
+[2021.11.21-13.57.03:421][396]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.21-13.57.03:421][396]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2021.11.21-13.57.03:421][396]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2021.11.21-13.57.03:421][396]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.21-13.57.03:431][396]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.21-13.57.03:435][396]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.21-13.57.03:456][396]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.21-13.57.03:456][396]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.21-13.57.03:457][396]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.21-13.57.03:494][396]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2021.11.21-13.57.03:518][397]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2021.11.21-13.57.11:358][862]LogSlate: Window 'Color Picker' being destroyed
+[2021.11.21-13.57.12:021][900]LogSavePackage: Moving 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Saved/WBP_StartGameWidgetCED5DFB746733E7A561DA28F2C9D2454.tmp' to 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Content/Blueprints/Widgets/WBP_StartGameWidget.uasset'
+[2021.11.21-13.57.12:033][900]AssetCheck: New page: Asset Save: WBP_StartGameWidget
+[2021.11.21-13.57.12:033][900]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/WBP_StartGameWidget.WBP_StartGameWidget
+[2021.11.21-13.57.13:978][ 17]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.21-13.57.13:983][ 17]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.11.21-13.57.13:985][ 17]LogPlayLevel: [PlayLevel] Compiling WBP_StartGameWidget before play...
+[2021.11.21-13.57.14:039][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2021.11.21-13.57.14:040][ 17]LogPlayLevel: PlayLevel: Blueprint regeneration took 56 ms (1 blueprints)
+[2021.11.21-13.57.14:040][ 17]PIE: New page: PIE session: Main (Nov 21, 2021, 3:57:14 AM)
+[2021.11.21-13.57.14:041][ 17]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2021.11.21-13.57.14:043][ 17]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002786s)
+[2021.11.21-13.57.14:044][ 17]LogAIModule: Creating AISystem for world Main
+[2021.11.21-13.57.14:044][ 17]LogPlayLevel: PIE: World Init took: (0.000966s)
+[2021.11.21-13.57.14:044][ 17]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.003916s)
+[2021.11.21-13.57.14:069][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2021.11.21-13.57.14:069][ 17]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2021.11.21-13.57.14:069][ 17]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.21-13.57.14:069][ 17]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.21-13.57.14:069][ 17]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.21-13.57.14:069][ 17]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.21-13.57.14:069][ 17]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.21-13.57.14:069][ 17]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.21-13.57.14:069][ 17]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.21-13.57.14:069][ 17]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.21-13.57.14:069][ 17]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.11.21-13.57.14:069][ 17]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.11.21-13.57.14:069][ 17]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.11.21-13.57.14:069][ 17]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.21-13.57.14:072][ 17]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.21-13.57.14:072][ 17]LogAudioMixer: Display: 1: FrontRight
+[2021.11.21-13.57.14:072][ 17]LogAudioMixer: Display: 2: FrontCenter
+[2021.11.21-13.57.14:072][ 17]LogAudioMixer: Display: 3: LowFrequency
+[2021.11.21-13.57.14:072][ 17]LogAudioMixer: Display: 4: BackLeft
+[2021.11.21-13.57.14:072][ 17]LogAudioMixer: Display: 5: BackRight
+[2021.11.21-13.57.14:072][ 17]LogAudioMixer: Display: 6: SideLeft
+[2021.11.21-13.57.14:072][ 17]LogAudioMixer: Display: 7: SideRight
+[2021.11.21-13.57.14:100][ 17]LogAudioMixer: Display: Using Audio Device Headphones (2- Realtek(R) Audio)
+[2021.11.21-13.57.14:101][ 17]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.21-13.57.14:101][ 17]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.21-13.57.14:101][ 17]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.21-13.57.14:102][ 17]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.21-13.57.14:102][ 17]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.21-13.57.14:102][ 17]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.11.21-13.57.14:103][ 17]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.21-13.57.14:103][ 17]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.21-13.57.14:103][ 17]LogInit: FAudioDevice initialized.
+[2021.11.21-13.57.14:103][ 17]LogAudio: Display: Audio Device (ID: 12) registered with world 'Main'.
+[2021.11.21-13.57.14:117][ 17]LogLoad: Game class is 'BP_ToonTankGameMode_C'
+[2021.11.21-13.57.14:119][ 17]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2021.11.21-08.57.14
+[2021.11.21-13.57.14:119][ 17]LogWorld: Bringing up level for play took: 0.000979
+[2021.11.21-13.57.14:119][ 17]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2021.11.21-13.57.14:122][ 17]PIE: Server logged in
+[2021.11.21-13.57.14:123][ 17]PIE: Play in editor total start time 0.14 seconds.
+[2021.11.21-13.57.19:271][322]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.21-13.57.19:271][322]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2021.11.21-13.57.19:271][322]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2021.11.21-13.57.19:271][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.21-13.57.19:284][322]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.21-13.57.19:289][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.21-13.57.19:311][322]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.21-13.57.19:312][322]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.21-13.57.19:313][322]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.21-13.57.19:342][322]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2021.11.21-13.57.19:363][323]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2021.11.21-13.57.29:431][924]LogSavePackage: Moving 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Saved/WBP_StartGameWidget837073674B78D923081E319CC97A18C3.tmp' to 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Content/Blueprints/Widgets/WBP_StartGameWidget.uasset'
+[2021.11.21-13.57.29:445][924]AssetCheck: New page: Asset Save: WBP_StartGameWidget
+[2021.11.21-13.57.29:445][924]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/WBP_StartGameWidget.WBP_StartGameWidget
+[2021.11.21-13.57.31:503][ 48]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.21-13.57.31:508][ 48]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.11.21-13.57.31:508][ 48]LogPlayLevel: [PlayLevel] Compiling WBP_StartGameWidget before play...
+[2021.11.21-13.57.31:566][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2021.11.21-13.57.31:566][ 48]LogPlayLevel: PlayLevel: Blueprint regeneration took 58 ms (1 blueprints)
+[2021.11.21-13.57.31:566][ 48]PIE: New page: PIE session: Main (Nov 21, 2021, 3:57:31 AM)
+[2021.11.21-13.57.31:567][ 48]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2021.11.21-13.57.31:569][ 48]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002750s)
+[2021.11.21-13.57.31:570][ 48]LogAIModule: Creating AISystem for world Main
+[2021.11.21-13.57.31:570][ 48]LogPlayLevel: PIE: World Init took: (0.000983s)
+[2021.11.21-13.57.31:570][ 48]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.003875s)
+[2021.11.21-13.57.31:595][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2021.11.21-13.57.31:595][ 48]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2021.11.21-13.57.31:595][ 48]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.21-13.57.31:595][ 48]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.21-13.57.31:595][ 48]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.21-13.57.31:595][ 48]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.21-13.57.31:595][ 48]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.21-13.57.31:595][ 48]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.21-13.57.31:595][ 48]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.21-13.57.31:595][ 48]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.21-13.57.31:596][ 48]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.11.21-13.57.31:596][ 48]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.11.21-13.57.31:596][ 48]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.11.21-13.57.31:596][ 48]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.21-13.57.31:598][ 48]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.21-13.57.31:598][ 48]LogAudioMixer: Display: 1: FrontRight
+[2021.11.21-13.57.31:598][ 48]LogAudioMixer: Display: 2: FrontCenter
+[2021.11.21-13.57.31:598][ 48]LogAudioMixer: Display: 3: LowFrequency
+[2021.11.21-13.57.31:598][ 48]LogAudioMixer: Display: 4: BackLeft
+[2021.11.21-13.57.31:598][ 48]LogAudioMixer: Display: 5: BackRight
+[2021.11.21-13.57.31:598][ 48]LogAudioMixer: Display: 6: SideLeft
+[2021.11.21-13.57.31:598][ 48]LogAudioMixer: Display: 7: SideRight
+[2021.11.21-13.57.31:627][ 48]LogAudioMixer: Display: Using Audio Device Headphones (2- Realtek(R) Audio)
+[2021.11.21-13.57.31:628][ 48]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.21-13.57.31:628][ 48]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.21-13.57.31:628][ 48]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.21-13.57.31:628][ 48]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.21-13.57.31:628][ 48]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.21-13.57.31:628][ 48]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.11.21-13.57.31:630][ 48]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.21-13.57.31:630][ 48]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.21-13.57.31:630][ 48]LogInit: FAudioDevice initialized.
+[2021.11.21-13.57.31:630][ 48]LogAudio: Display: Audio Device (ID: 13) registered with world 'Main'.
+[2021.11.21-13.57.31:641][ 48]LogLoad: Game class is 'BP_ToonTankGameMode_C'
+[2021.11.21-13.57.31:642][ 48]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2021.11.21-08.57.31
+[2021.11.21-13.57.31:642][ 48]LogWorld: Bringing up level for play took: 0.001065
+[2021.11.21-13.57.31:643][ 48]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2021.11.21-13.57.31:645][ 48]PIE: Server logged in
+[2021.11.21-13.57.31:646][ 48]PIE: Play in editor total start time 0.139 seconds.
+[2021.11.21-13.57.37:020][368]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.21-13.57.37:020][368]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2021.11.21-13.57.37:020][368]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2021.11.21-13.57.37:020][368]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.21-13.57.37:031][368]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.21-13.57.37:036][368]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.21-13.57.37:058][368]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.21-13.57.37:058][368]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.21-13.57.37:059][368]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.21-13.57.37:084][368]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2021.11.21-13.57.37:111][369]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2021.11.21-13.57.47:062][961]LogSlate: Window 'Color Picker' being destroyed
+[2021.11.21-13.57.50:977][194]LogSavePackage: Moving 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Saved/WBP_StartGameWidget230DD5CC4F5C96129B7430B4C3742820.tmp' to 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Content/Blueprints/Widgets/WBP_StartGameWidget.uasset'
+[2021.11.21-13.57.50:990][194]AssetCheck: New page: Asset Save: WBP_StartGameWidget
+[2021.11.21-13.57.50:990][194]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/WBP_StartGameWidget.WBP_StartGameWidget
+[2021.11.21-13.57.52:595][291]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.21-13.57.52:599][291]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.11.21-13.57.52:601][291]LogPlayLevel: [PlayLevel] Compiling WBP_StartGameWidget before play...
+[2021.11.21-13.57.52:656][291]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2021.11.21-13.57.52:657][291]LogPlayLevel: PlayLevel: Blueprint regeneration took 57 ms (1 blueprints)
+[2021.11.21-13.57.52:657][291]PIE: New page: PIE session: Main (Nov 21, 2021, 3:57:52 AM)
+[2021.11.21-13.57.52:657][291]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2021.11.21-13.57.52:660][291]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002812s)
+[2021.11.21-13.57.52:660][291]LogAIModule: Creating AISystem for world Main
+[2021.11.21-13.57.52:661][291]LogPlayLevel: PIE: World Init took: (0.000951s)
+[2021.11.21-13.57.52:661][291]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.003902s)
+[2021.11.21-13.57.52:685][291]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2021.11.21-13.57.52:685][291]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2021.11.21-13.57.52:685][291]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.21-13.57.52:685][291]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.21-13.57.52:685][291]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.21-13.57.52:685][291]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.21-13.57.52:685][291]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.21-13.57.52:685][291]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.21-13.57.52:685][291]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.21-13.57.52:685][291]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.21-13.57.52:686][291]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.11.21-13.57.52:686][291]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.11.21-13.57.52:686][291]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.11.21-13.57.52:686][291]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.21-13.57.52:688][291]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.21-13.57.52:688][291]LogAudioMixer: Display: 1: FrontRight
+[2021.11.21-13.57.52:688][291]LogAudioMixer: Display: 2: FrontCenter
+[2021.11.21-13.57.52:688][291]LogAudioMixer: Display: 3: LowFrequency
+[2021.11.21-13.57.52:688][291]LogAudioMixer: Display: 4: BackLeft
+[2021.11.21-13.57.52:688][291]LogAudioMixer: Display: 5: BackRight
+[2021.11.21-13.57.52:688][291]LogAudioMixer: Display: 6: SideLeft
+[2021.11.21-13.57.52:688][291]LogAudioMixer: Display: 7: SideRight
+[2021.11.21-13.57.52:717][291]LogAudioMixer: Display: Using Audio Device Headphones (2- Realtek(R) Audio)
+[2021.11.21-13.57.52:717][291]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.21-13.57.52:717][291]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.21-13.57.52:717][291]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.21-13.57.52:718][291]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.21-13.57.52:718][291]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.21-13.57.52:718][291]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.11.21-13.57.52:719][291]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.21-13.57.52:720][291]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.21-13.57.52:720][291]LogInit: FAudioDevice initialized.
+[2021.11.21-13.57.52:720][291]LogAudio: Display: Audio Device (ID: 14) registered with world 'Main'.
+[2021.11.21-13.57.52:730][291]LogLoad: Game class is 'BP_ToonTankGameMode_C'
+[2021.11.21-13.57.52:731][291]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2021.11.21-08.57.52
+[2021.11.21-13.57.52:732][291]LogWorld: Bringing up level for play took: 0.001049
+[2021.11.21-13.57.52:732][291]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2021.11.21-13.57.52:735][291]PIE: Server logged in
+[2021.11.21-13.57.52:735][291]PIE: Play in editor total start time 0.137 seconds.
+[2021.11.21-13.57.58:330][623]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.21-13.57.58:330][623]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2021.11.21-13.57.58:330][623]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2021.11.21-13.57.58:331][623]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.21-13.57.58:343][623]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.21-13.57.58:348][623]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.21-13.57.58:370][623]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.21-13.57.58:370][623]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.21-13.57.58:371][623]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.21-13.57.58:401][623]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.21-13.57.58:404][623]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2021.11.21-13.57.58:430][624]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2021.11.21-13.58.20:432][269]LogSavePackage: Moving 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Saved/WBP_StartGameWidgetAC2D8E9B4D7566134D27099F982288A2.tmp' to 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Content/Blueprints/Widgets/WBP_StartGameWidget.uasset'
+[2021.11.21-13.58.20:447][269]AssetCheck: New page: Asset Save: WBP_StartGameWidget
+[2021.11.21-13.58.20:447][269]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/WBP_StartGameWidget.WBP_StartGameWidget
+[2021.11.21-13.58.23:652][460]LogSavePackage: Moving 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Saved/WBP_StartGameWidget3A4326FF4CE7B9B68CBCC7A5D835C7FD.tmp' to 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Content/Blueprints/Widgets/WBP_StartGameWidget.uasset'
+[2021.11.21-13.58.23:666][460]AssetCheck: New page: Asset Save: WBP_StartGameWidget
+[2021.11.21-13.58.23:666][460]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/WBP_StartGameWidget.WBP_StartGameWidget
+[2021.11.21-13.58.56:836][439]BlueprintLog: New page: Compile WBP_StartGameWidget
+[2021.11.21-13.58.56:879][439]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2021.11.21-14.00.03:635][555]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2021.11.21-14.00.03:636][555]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Main' took 0.041
+[2021.11.21-14.00.03:636][555]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Widgets/WBP_StartGameWidget] ([4] browsable assets)...
+[2021.11.21-14.00.03:637][555]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Widgets/WBP_StartGameWidget]
+[2021.11.21-14.00.03:651][555]LogSavePackage: Moving 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Saved/WBP_StartGameWidget_Auto27F32AB7E482F5FB721759D994EB651A6.tmp' to 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Saved/Autosaves/Game/Blueprints/Widgets/WBP_StartGameWidget_Auto2.uasset'
+[2021.11.21-14.00.03:652][555]LogFileHelpers: Auto-saving content packages took 0.016
+[2021.11.21-14.02.00:569][206]LogSavePackage: Moving 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Saved/WBP_StartGameWidget0BF48F0145B30B61F5EA2EBD7847AFFF.tmp' to 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Content/Blueprints/Widgets/WBP_StartGameWidget.uasset'
+[2021.11.21-14.02.00:582][206]AssetCheck: New page: Asset Save: WBP_StartGameWidget
+[2021.11.21-14.02.00:582][206]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/WBP_StartGameWidget.WBP_StartGameWidget
+[2021.11.21-14.02.06:017][531]LogSavePackage: Moving 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Saved/WBP_StartGameWidget29CE53F74A0DE856A1B2D8B5777C18C0.tmp' to 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Content/Blueprints/Widgets/WBP_StartGameWidget.uasset'
+[2021.11.21-14.02.06:029][531]AssetCheck: New page: Asset Save: WBP_StartGameWidget
+[2021.11.21-14.02.06:029][531]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/WBP_StartGameWidget.WBP_StartGameWidget
+[2021.11.21-14.02.09:520][739]LogSavePackage: Moving 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Saved/WBP_StartGameWidget866B1A904D464C9FC8D7C4A343F22A2A.tmp' to 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Content/Blueprints/Widgets/WBP_StartGameWidget.uasset'
+[2021.11.21-14.02.09:534][739]AssetCheck: New page: Asset Save: WBP_StartGameWidget
+[2021.11.21-14.02.09:534][739]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/WBP_StartGameWidget.WBP_StartGameWidget
+[2021.11.21-14.02.24:116][614]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.11.21-14.02.24:358][614]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.242 s
+[2021.11.21-14.02.24:358][614]LogOutputDevice: Error: === Handled ensure: ===
+[2021.11.21-14.02.24:358][614]LogOutputDevice: Error: 
+[2021.11.21-14.02.24:358][614]LogOutputDevice: Error: Ensure condition failed: !bGraphDataInvalid [File:D:/Build/++UE4/Sync/Engine/Source/Editor/GraphEditor/Private/SGraphPin.cpp] [Line: 821]
+[2021.11.21-14.02.24:358][614]LogOutputDevice: Error: The Graph Pin Object has been invalidate. Someone is keeping a hard ref on the SGraphPin. See InvalidateGraphData for more info
+[2021.11.21-14.02.24:358][614]LogOutputDevice: Error: Stack: 
+[2021.11.21-14.02.24:358][614]LogOutputDevice: Error: [Callstack] 0x00007ff8e01d3199 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.11.21-14.02.24:358][614]LogOutputDevice: Error: [Callstack] 0x00007ff8e00812c1 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.11.21-14.02.24:358][614]LogOutputDevice: Error: [Callstack] 0x00007ff8e007ff38 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.11.21-14.02.24:358][614]LogOutputDevice: Error: [Callstack] 0x00007ff8e008d09c UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.11.21-14.02.24:358][614]LogOutputDevice: Error: [Callstack] 0x00007ff8e010853c UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.11.21-14.02.24:358][614]LogOutputDevice: Error: [Callstack] 0x00007ff8e0105a39 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.11.21-14.02.24:358][614]LogOutputDevice: Error: [Callstack] 0x00007ff8e4b56c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.21-14.02.24:358][614]LogOutputDevice: Error: [Callstack] 0x00007ff8e4b54945 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.21-14.02.24:358][614]LogOutputDevice: Error: [Callstack] 0x00007ff8e4b56c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.21-14.02.24:358][614]LogOutputDevice: Error: [Callstack] 0x00007ff8e4b53ca2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.21-14.02.24:358][614]LogOutputDevice: Error: [Callstack] 0x00007ff8e4b56c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.21-14.02.24:358][614]LogOutputDevice: Error: [Callstack] 0x00007ff8f268b5d9 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.21-14.02.24:358][614]LogOutputDevice: Error: [Callstack] 0x00007ff8e4b56c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.21-14.02.24:358][614]LogOutputDevice: Error: [Callstack] 0x00007ff8e4b53ca2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.21-14.02.24:358][614]LogOutputDevice: Error: [Callstack] 0x00007ff8e4b56c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.21-14.02.24:358][614]LogOutputDevice: Error: [Callstack] 0x00007ff8e4b53ca2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.21-14.02.24:358][614]LogOutputDevice: Error: [Callstack] 0x00007ff8f268b464 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.21-14.02.24:358][614]LogOutputDevice: Error: [Callstack] 0x00007ff8e4b56c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.21-14.02.24:358][614]LogOutputDevice: Error: [Callstack] 0x00007ff8e4b54945 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.21-14.02.24:358][614]LogOutputDevice: Error: [Callstack] 0x00007ff8e4b56c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.21-14.02.24:358][614]LogOutputDevice: Error: [Callstack] 0x00007ff8e4b57678 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.21-14.02.24:358][614]LogOutputDevice: Error: [Callstack] 0x00007ff8e4b54adb UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.21-14.02.24:358][614]LogOutputDevice: Error: [Callstack] 0x00007ff8e4b56c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.21-14.02.24:358][614]LogOutputDevice: Error: [Callstack] 0x00007ff8e4b53ca2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.21-14.02.24:358][614]LogOutputDevice: Error: [Callstack] 0x00007ff8e4b56c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.21-14.02.24:358][614]LogOutputDevice: Error: [Callstack] 0x00007ff8e4b57678 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.21-14.02.24:358][614]LogOutputDevice: Error: [Callstack] 0x00007ff8f268d880 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.21-14.02.24:358][614]LogOutputDevice: Error: [Callstack] 0x00007ff8e4b56c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.21-14.02.24:358][614]LogOutputDevice: Error: [Callstack] 0x00007ff8e4b53ca2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.21-14.02.24:358][614]LogOutputDevice: Error: [Callstack] 0x00007ff8e4b56c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.21-14.02.24:358][614]LogOutputDevice: Error: [Callstack] 0x00007ff8e4b57678 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.21-14.02.24:358][614]LogOutputDevice: Error: [Callstack] 0x00007ff8f268d880 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.21-14.02.24:358][614]LogOutputDevice: Error: [Callstack] 0x00007ff8e4b56c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.21-14.02.24:358][614]LogOutputDevice: Error: [Callstack] 0x00007ff8e4b53ca2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.21-14.02.24:358][614]LogOutputDevice: Error: [Callstack] 0x00007ff8e4b56c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.21-14.02.24:358][614]LogOutputDevice: Error: [Callstack] 0x00007ff8e4b57678 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.21-14.02.24:358][614]LogOutputDevice: Error: [Callstack] 0x00007ff8f268d880 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.21-14.02.24:358][614]LogOutputDevice: Error: [Callstack] 0x00007ff8e4b56c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.21-14.02.24:358][614]LogOutputDevice: Error: [Callstack] 0x00007ff8e4b54945 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.21-14.02.24:358][614]LogOutputDevice: Error: [Callstack] 0x00007ff8e4b56c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.21-14.02.24:358][614]LogOutputDevice: Error: [Callstack] 0x00007ff8e4b53ca2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.21-14.02.24:358][614]LogOutputDevice: Error: [Callstack] 0x00007ff8e4b56c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.21-14.02.24:358][614]LogOutputDevice: Error: [Callstack] 0x00007ff8e4b57678 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.21-14.02.24:358][614]LogOutputDevice: Error: [Callstack] 0x00007ff8e4b54adb UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.21-14.02.24:358][614]LogOutputDevice: Error: [Callstack] 0x00007ff8e4b56c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.21-14.02.24:358][614]LogOutputDevice: Error: [Callstack] 0x00007ff8e4b53ca2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.21-14.02.24:358][614]LogOutputDevice: Error: [Callstack] 0x00007ff8e4b56c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.21-14.02.24:358][614]LogOutputDevice: Error: [Callstack] 0x00007ff8e4b53ca2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.21-14.02.24:358][614]LogOutputDevice: Error: [Callstack] 0x00007ff8f268b464 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.21-14.02.24:358][614]LogOutputDevice: Error: [Callstack] 0x00007ff8e4b56c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.21-14.02.24:358][614]LogOutputDevice: Error: [Callstack] 0x00007ff8e4b54945 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.21-14.02.24:358][614]LogOutputDevice: Error: [Callstack] 0x00007ff8e4b56c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.21-14.02.24:358][614]LogOutputDevice: Error: [Callstack] 0x00007ff8e4b57678 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.21-14.02.24:358][614]LogOutputDevice: Error: [Callstack] 0x00007ff8e4b54adb UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.21-14.02.24:358][614]LogOutputDevice: Error: [Callstack] 0x00007ff8e4b56c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.21-14.02.24:358][614]LogOutputDevice: Error: [Callstack] 0x00007ff8e4b53ca2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.21-14.02.24:358][614]LogOutputDevice: Error: [Callstack] 0x00007ff8e4b56c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.21-14.02.24:358][614]LogOutputDevice: Error: [Callstack] 0x00007ff8e4b57678 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.21-14.02.24:358][614]LogOutputDevice: Error: [Callstack] 0x00007ff8f268d880 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.21-14.02.24:358][614]LogOutputDevice: Error: [Callstack] 0x00007ff8e4b56c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.21-14.02.24:358][614]LogOutputDevice: Error: [Callstack] 0x00007ff8e4b54945 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.21-14.02.24:359][614]LogOutputDevice: Error: [Callstack] 0x00007ff8e4b56c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.21-14.02.24:359][614]LogOutputDevice: Error: [Callstack] 0x00007ff8e4b53ca2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.21-14.02.24:359][614]LogOutputDevice: Error: [Callstack] 0x00007ff8e4b56c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.21-14.02.24:359][614]LogOutputDevice: Error: [Callstack] 0x00007ff8e4b57678 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.21-14.02.24:359][614]LogOutputDevice: Error: [Callstack] 0x00007ff8e4b54adb UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.21-14.02.24:359][614]LogOutputDevice: Error: [Callstack] 0x00007ff8e4b56c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.21-14.02.24:359][614]LogOutputDevice: Error: [Callstack] 0x00007ff8e4b57678 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.21-14.02.24:359][614]LogOutputDevice: Error: [Callstack] 0x00007ff8e4b54adb UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.21-14.02.24:359][614]LogOutputDevice: Error: [Callstack] 0x00007ff8e4b56c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.21-14.02.24:359][614]LogOutputDevice: Error: [Callstack] 0x00007ff8e4b54945 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.21-14.02.24:359][614]LogOutputDevice: Error: [Callstack] 0x00007ff8e4b56c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.21-14.02.24:359][614]LogOutputDevice: Error: [Callstack] 0x00007ff8e4b53ca2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.21-14.02.24:359][614]LogOutputDevice: Error: [Callstack] 0x00007ff8e4b56c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.21-14.02.24:359][614]LogOutputDevice: Error: [Callstack] 0x00007ff8e4b57787 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.21-14.02.24:359][614]LogOutputDevice: Error: [Callstack] 0x00007ff8e4a6be74 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.21-14.02.24:359][614]LogOutputDevice: Error: [Callstack] 0x00007ff8e4b57a1c UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.21-14.02.24:359][614]LogOutputDevice: Error: [Callstack] 0x00007ff8f2461bee UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.21-14.02.24:359][614]LogOutputDevice: Error: [Callstack] 0x00007ff8f2492779 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.21-14.02.24:359][614]LogOutputDevice: Error: [Callstack] 0x00007ff8f2462547 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.21-14.02.24:359][614]LogOutputDevice: Error: [Callstack] 0x00007ff8f24b8279 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.21-14.02.24:359][614]LogOutputDevice: Error: [Callstack] 0x00007ff8f24b7a73 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.21-14.02.24:359][614]LogOutputDevice: Error: [Callstack] 0x00007ff6328c9a1f UE4Editor.exe!UnknownFunction []
+[2021.11.21-14.02.24:359][614]LogOutputDevice: Error: [Callstack] 0x00007ff6328e0fbc UE4Editor.exe!UnknownFunction []
+[2021.11.21-14.02.24:359][614]LogOutputDevice: Error: [Callstack] 0x00007ff6328e10aa UE4Editor.exe!UnknownFunction []
+[2021.11.21-14.02.24:359][614]LogOutputDevice: Error: [Callstack] 0x00007ff6328e40cd UE4Editor.exe!UnknownFunction []
+[2021.11.21-14.02.24:359][614]LogOutputDevice: Error: [Callstack] 0x00007ff6328f5984 UE4Editor.exe!UnknownFunction []
+[2021.11.21-14.02.24:359][614]LogOutputDevice: Error: [Callstack] 0x00007ff6328f853a UE4Editor.exe!UnknownFunction []
+[2021.11.21-14.02.24:359][614]LogOutputDevice: Error: [Callstack] 0x00007ff942a47034 KERNEL32.DLL!UnknownFunction []
+[2021.11.21-14.02.24:359][614]LogOutputDevice: Error: [Callstack] 0x00007ff9432a2651 ntdll.dll!UnknownFunction []
+[2021.11.21-14.02.24:359][614]LogOutputDevice: Error: 
+[2021.11.21-14.02.24:361][614]LogStats:                SubmitErrorReport -  0.000 s
+[2021.11.21-14.02.25:842][614]LogStats:                    SendNewReport -  1.481 s
+[2021.11.21-14.02.25:842][614]LogStats:             FDebug::EnsureFailed -  1.726 s
+[2021.11.21-14.02.27:280][681]LogEditorTransaction: Undo Delete current selection
+[2021.11.21-14.02.28:275][733]LogEditorTransaction: Undo Create Reroute Node
+[2021.11.21-14.02.39:532][251]LogSavePackage: Moving 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Saved/WBP_StartGameWidget8F4114F847BC5237E83715A2E620BA81.tmp' to 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Content/Blueprints/Widgets/WBP_StartGameWidget.uasset'
+[2021.11.21-14.02.39:545][251]AssetCheck: New page: Asset Save: WBP_StartGameWidget
+[2021.11.21-14.02.39:545][251]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/WBP_StartGameWidget.WBP_StartGameWidget
+[2021.11.21-14.02.43:808][506]LogSavePackage: Moving 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Saved/WBP_StartGameWidget711DBB894EA24174CC2B498549D99F56.tmp' to 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Content/Blueprints/Widgets/WBP_StartGameWidget.uasset'
+[2021.11.21-14.02.43:821][506]AssetCheck: New page: Asset Save: WBP_StartGameWidget
+[2021.11.21-14.02.43:821][506]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/WBP_StartGameWidget.WBP_StartGameWidget
+[2021.11.21-14.02.50:434][787]LogSavePackage: Moving 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Saved/WBP_StartGameWidget527C608045EFAF5FCB4917BB31C6B653.tmp' to 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Content/Blueprints/Widgets/WBP_StartGameWidget.uasset'
+[2021.11.21-14.02.50:446][787]AssetCheck: New page: Asset Save: WBP_StartGameWidget
+[2021.11.21-14.02.50:447][787]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/WBP_StartGameWidget.WBP_StartGameWidget
+[2021.11.21-14.02.57:611][216]LogSavePackage: Moving 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Saved/WBP_StartGameWidgetF07998BE4EB3F21FF8621CA2A57786A1.tmp' to 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Content/Blueprints/Widgets/WBP_StartGameWidget.uasset'
+[2021.11.21-14.02.57:625][216]AssetCheck: New page: Asset Save: WBP_StartGameWidget
+[2021.11.21-14.02.57:625][216]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/WBP_StartGameWidget.WBP_StartGameWidget
+[2021.11.21-14.03.11:156][ 28]BlueprintLog: New page: Compile WBP_StartGameWidget
+[2021.11.21-14.03.11:203][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2021.11.21-14.03.13:103][139]LogSavePackage: Moving 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Saved/WBP_StartGameWidget1CEEBFE34AF44D449DDF899C1E197F2E.tmp' to 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Content/Blueprints/Widgets/WBP_StartGameWidget.uasset'
+[2021.11.21-14.03.13:114][139]AssetCheck: New page: Asset Save: WBP_StartGameWidget
+[2021.11.21-14.03.13:114][139]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/WBP_StartGameWidget.WBP_StartGameWidget
+[2021.11.21-14.03.43:694][962]LogSavePackage: Moving 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Saved/WBP_StartGameWidget16D5DEBF4CD889FF72C97386918F5C17.tmp' to 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Content/Blueprints/Widgets/WBP_StartGameWidget.uasset'
+[2021.11.21-14.03.43:708][962]AssetCheck: New page: Asset Save: WBP_StartGameWidget
+[2021.11.21-14.03.43:708][962]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/WBP_StartGameWidget.WBP_StartGameWidget
+[2021.11.21-14.04.05:314][257]LogSavePackage: Moving 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Saved/WBP_StartGameWidgetAEE9EFBA44A84853193555AD3502A165.tmp' to 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Content/Blueprints/Widgets/WBP_StartGameWidget.uasset'
+[2021.11.21-14.04.05:328][257]AssetCheck: New page: Asset Save: WBP_StartGameWidget
+[2021.11.21-14.04.05:328][257]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/WBP_StartGameWidget.WBP_StartGameWidget
+[2021.11.21-14.11.47:181][789]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{6128ded9-4b3e-4975-8e18-e039c4dfd884}.
+[2021.11.21-14.11.47:181][789]LogAudioMixer: Resetting audio stream to device id 
+[2021.11.21-14.11.47:183][789]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.21-14.11.47:183][789]LogAudioMixer: Display: 1: FrontRight
+[2021.11.21-14.11.47:183][789]LogAudioMixer: Display: 2: FrontCenter
+[2021.11.21-14.11.47:183][789]LogAudioMixer: Display: 3: LowFrequency
+[2021.11.21-14.11.47:183][789]LogAudioMixer: Display: 4: BackLeft
+[2021.11.21-14.11.47:183][789]LogAudioMixer: Display: 5: BackRight
+[2021.11.21-14.11.47:183][789]LogAudioMixer: Display: 6: SideLeft
+[2021.11.21-14.11.47:183][789]LogAudioMixer: Display: 7: SideRight
+[2021.11.21-14.12.21:559][497]LogSavePackage: Moving 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Saved/WBP_StartGameWidget2CC9293141DC973FA28D9CB5E01EAEBB.tmp' to 'D:/GameDevelopment/UnrealEngine/GamedevTV/3ToonTanks/ToonTanks/Content/Blueprints/Widgets/WBP_StartGameWidget.uasset'
+[2021.11.21-14.12.21:574][497]AssetCheck: New page: Asset Save: WBP_StartGameWidget
+[2021.11.21-14.12.21:574][497]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/WBP_StartGameWidget.WBP_StartGameWidget
+[2021.11.21-14.12.23:187][594]BlueprintLog: New page: Compile WBP_StartGameWidget
+[2021.11.21-14.12.23:236][594]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
